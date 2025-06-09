@@ -13,4 +13,3 @@ pytz==2024.1
 seaborn==0.13.2
 PyYAML==6.0
 pandas_market_calendars==4.6.1
-
