@@ -29,14 +29,12 @@ jobs:
       - name: Download 1-min SPX data
         run: python src/data/downloader.py
 
-      - name: Saturday-only: Update master pattern database
-        if: github.event.schedule == '0 20 * * 6'
+      - name: Update master pattern database (runs collector only on Saturday)
         run: python src/collector.py
 
       - name: Run pattern detector
         run: python src/patterns/detector.py
 
-      # Optional: Send email if implemented
       - name: Send pattern summary via email
-        if: always()  # You can control with custom logic
+        if: always()
         run: python src/email/send_patterns.py
