@@ -2,6 +2,7 @@ numpy==1.26.4
 pandas==2.2.2
 matplotlib==3.8.4
 yfinance==0.2.37
+aiohttp==3.8.1
 alpaca-trade-api==2.3.0
 beautifulsoup4==4.12.3
 requests==2.31.0
@@ -12,4 +13,4 @@ pytz==2024.1
 seaborn==0.13.2
 PyYAML==6.0
 pandas_market_calendars==4.6.1
-aiohttp==3.9.3
+
