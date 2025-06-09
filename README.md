@@ -1,0 +1,1 @@
+# SPX-Pattern-Trading-Bot
