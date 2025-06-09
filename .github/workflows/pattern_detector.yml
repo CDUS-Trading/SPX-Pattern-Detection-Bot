@@ -40,4 +40,8 @@ jobs:
 
       - name: Send pattern summary via email
         if: always()
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python src/email/send_patterns.py
