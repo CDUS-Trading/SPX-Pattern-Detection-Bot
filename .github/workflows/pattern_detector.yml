@@ -30,7 +30,7 @@ jobs:
         run: python src/data/downloader.py
 
       - name: Update master pattern database (runs collector only on Saturday)
-        run: python src/collector.py
+        run: python src/patterns/collector.py
 
       - name: Run pattern detector
         run: python src/patterns/detector.py
