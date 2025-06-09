@@ -2,7 +2,9 @@ name: SPX Pattern Detection Bot
 
 on:
   schedule:
+    # Weekdays at 9 PM CST => 3 AM UTC
     - cron: '0 3 * * 1-5'
+    # Saturday at 2 PM CST => 8 PM UTC
     - cron: '0 20 * * 6'
   workflow_dispatch:
 
@@ -11,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
