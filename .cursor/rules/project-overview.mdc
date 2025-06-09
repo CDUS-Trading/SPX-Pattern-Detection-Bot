@@ -1,0 +1,41 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# SPX Pattern Trading Bot Overview
+
+This is an automated trading bot that executes trades for SPX based on pattern signals using Alpaca's paper trading API.
+
+## Key Components
+
+### Main Trading Logic
+- The core trading logic is in [src/simulator/main.py](mdc:src/simulator/main.py)
+- Handles trade execution, position management, and monitoring
+- Uses Alpaca's paper trading API for order execution
+
+### Pattern Generation
+- Pattern generation modules are in [src/patterns/](mdc:src/patterns)
+- Generates trading signals based on technical patterns
+- Outputs pattern files in the format `moderate_patterns_YYYYMMDD.txt`
+
+### Data Management
+- Market data is stored in [data/](mdc:data)
+- Trade logs are maintained in [logs/](mdc:logs)
+- Configuration files are in [config/](mdc:config)
+
+### Utilities
+- Common utility functions are in [src/utils/](mdc:src/utils)
+- Includes timezone conversion and time utility functions for data processing and trading operations
+
+## Important Files
+- [setup.py](mdc:setup.py) - Project installation configuration
+- [requirements.txt](mdc:requirements.txt) - Python dependencies
+- [pattern_database.json](mdc:pattern_database.json) - Pattern definitions and statistics
+
+## Development Guidelines
+1. Always test changes using paper trading first
+2. Maintain single position rule - only one active position at a time
+3. Follow the pattern file format for signal generation
+4. Log all trades with complete details
+5. Use environment variables for API credentials

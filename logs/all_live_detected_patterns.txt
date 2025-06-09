@@ -1,0 +1,1810 @@
+Found patterns using Strict filters:
+=== SPX Pattern Analysis for Tuesday, 2025-04-15 ===
+Based on data from Monday, 2025-04-14
+Close from Monday: 5405.97
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:30AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 36.76 points
+SL: 22.71 points
+Success Rate: 93.75%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Buy 📈
+TP: 30.27 points
+SL: 36.22 points
+Success Rate: 70.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 10:30AM CT
+Direction: Buy 📈
+TP: 23.25 points
+SL: 20.00 points
+Success Rate: 70.37%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 23.79 points
+SL: 36.22 points
+Success Rate: 80.00%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 36.22 points
+SL: 17.30 points
+Success Rate: 80.00%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 1:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 22.16 points
+SL: 19.46 points
+Success Rate: 75.00%
+------------------------------
+
+Found patterns using Strict filters:
+=== SPX Pattern Analysis for Wednesday, 2025-04-16 ===
+Based on data from Tuesday, 2025-04-15
+Close from Tuesday: 5396.63
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:30AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 21.59 points
+SL: 20.51 points
+Success Rate: 73.91%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 22.13 points
+SL: 26.98 points
+Success Rate: 72.73%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 23.75 points
+SL: 13.49 points
+Success Rate: 72.73%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 24.28 points
+SL: 25.90 points
+Success Rate: 73.91%
+------------------------------
+
+Found patterns using Moderate filters:
+=== SPX Pattern Analysis for Thursday, 2025-04-17 ===
+Based on data from Wednesday, 2025-04-16
+Close from Wednesday: 5275.70
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 10:30AM CT
+Direction: Buy 📈
+TP: 29.54 points
+SL: 17.94 points
+Success Rate: 65.52%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 21.10 points
+SL: 27.96 points
+Success Rate: 65.38%
+------------------------------
+
+Found patterns using Strict filters:
+=== SPX Pattern Analysis for Friday, 2025-04-18 ===
+Based on data from Thursday, 2025-04-17
+Close from Thursday: 5282.70
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:45AM CT
+Exit: 9:15AM CT
+Direction: Sell 📉
+TP: 24.83 points
+SL: 31.70 points
+Success Rate: 83.33%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Buy 📈
+TP: 43.32 points
+SL: 34.87 points
+Success Rate: 75.00%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 29.58 points
+SL: 35.39 points
+Success Rate: 75.00%
+------------------------------
+
+Found patterns using Strict filters:
+=== SPX Pattern Analysis for Monday, 2025-04-21 ===
+Based on data from Thursday, 2025-04-17
+Close from Thursday: 5282.70
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:45AM CT
+Exit: 9:15AM CT
+Direction: Sell 📉
+TP: 24.83 points
+SL: 31.70 points
+Success Rate: 83.33%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Buy 📈
+TP: 43.32 points
+SL: 34.87 points
+Success Rate: 75.00%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 29.58 points
+SL: 35.39 points
+Success Rate: 75.00%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-04-22 ===
+Based on data from Monday, 2025-04-21
+Close from Monday: 5158.20
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 23.73 points
+SL: 9.80 points
+Success Rate: 81.82%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 26.31 points
+SL: 20.63 points
+Success Rate: 72.73%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 31.47 points
+SL: 15.47 points
+Success Rate: 72.73%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-04-22 ===
+Based on data from Monday, 2025-04-21
+Close from Monday: 5158.20
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 23.73 points
+SL: 9.80 points
+Success Rate: 81.82%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 26.31 points
+SL: 20.63 points
+Success Rate: 72.73%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 31.47 points
+SL: 15.47 points
+Success Rate: 72.73%
+------------------------------
+
+=== SPX Pattern Analysis for Wednesday, 2025-04-23 ===
+Based on data from Tuesday, 2025-04-22
+Close from Tuesday: 5287.76
+
+Filter Level: 1 Strict and 2 Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 26.44 points
+SL: 25.38 points
+Success Rate: 70.00%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Sell 📉
+TP: 23.27 points
+SL: 18.51 points
+Success Rate: 69.23%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 24.85 points
+SL: 21.15 points
+Success Rate: 67.86%
+------------------------------
+
+=== SPX Pattern Analysis for Thursday, 2025-04-24 ===
+Based on data from Wednesday, 2025-04-23
+Close from Wednesday: 5375.86
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:30AM CT
+Exit: 9:00AM CT
+Direction: Buy 📈
+TP: 24.19 points
+SL: 32.79 points
+Success Rate: 77.78%
+------------------------------
+
+===== Action Plan =====
+Entry: 8:45AM CT
+Exit: 9:15AM CT
+Direction: Sell 📉
+TP: 24.73 points
+SL: 21.50 points
+Success Rate: 83.33%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 26.34 points
+SL: 19.35 points
+Success Rate: 73.33%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 29.57 points
+SL: 11.83 points
+Success Rate: 80.00%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 30.64 points
+SL: 13.44 points
+Success Rate: 73.33%
+------------------------------
+
+=== SPX Pattern Analysis for Friday, 2025-04-25 ===
+Based on data from Thursday, 2025-04-24
+Close from Thursday: 5484.77
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Sell 📉
+TP: 32.36 points
+SL: 36.75 points
+Success Rate: 70.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 25.23 points
+SL: 10.42 points
+Success Rate: 81.82%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 24.13 points
+SL: 26.33 points
+Success Rate: 80.00%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 57.04 points
+SL: 51.01 points
+Success Rate: 70.59%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Sell 📉
+TP: 25.23 points
+SL: 31.81 points
+Success Rate: 80.00%
+------------------------------
+
+=== SPX Pattern Analysis for Monday, 2025-04-28 ===
+Based on data from Friday, 2025-04-25
+Close from Friday: 5525.21
+
+Filter Level: Minimum
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Sell 📉
+TP: 22.10 points
+SL: 19.89 points
+Success Rate: 60.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 25.97 points
+SL: 27.07 points
+Success Rate: 60.00%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-04-29 ===
+Based on data from Monday, 2025-04-28
+Close from Monday: 5528.75
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:30AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 23.22 points
+SL: 16.03 points
+Success Rate: 65.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 29.30 points
+SL: 32.62 points
+Success Rate: 68.42%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 26.54 points
+SL: 16.59 points
+Success Rate: 78.95%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 23.77 points
+SL: 33.17 points
+Success Rate: 68.42%
+------------------------------
+
+=== SPX Pattern Analysis for Wednesday, 2025-04-30 ===
+Based on data from Tuesday, 2025-04-29
+Close from Tuesday: 5560.83
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 23.36 points
+SL: 10.01 points
+Success Rate: 66.67%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 23.36 points
+SL: 31.70 points
+Success Rate: 66.67%
+------------------------------
+
+=== SPX Pattern Analysis for Thursday, 2025-05-01 ===
+Based on data from Wednesday, 2025-04-30
+Close from Wednesday: 5569.06
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:30AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 37.87 points
+SL: 27.85 points
+Success Rate: 88.24%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 10:30AM CT
+Direction: Sell 📉
+TP: 38.98 points
+SL: 21.72 points
+Success Rate: 72.73%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 24.50 points
+SL: 31.19 points
+Success Rate: 75.00%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 37.87 points
+SL: 17.82 points
+Success Rate: 81.25%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 1:30PM CT
+Exit: 2:30PM CT
+Direction: Sell 📉
+TP: 30.63 points
+SL: 40.65 points
+Success Rate: 72.73%
+------------------------------
+
+=== SPX Pattern Analysis for Monday, 2025-05-02 ===
+Based on data from Friday, 2025-05-01
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:30AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 22.42 points
+SL: 15.13 points
+Success Rate: 83.33%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 23.54 points
+SL: 10.09 points
+Success Rate: 66.67%
+------------------------------
+
+=== SPX Pattern Analysis for Monday, 2025-05-05 ===
+Based on data from Friday, 2025-05-02
+Close from Friday: 5686.67
+
+Filter Level: Minimum
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 29.57 points
+SL: 34.69 points
+Success Rate: 90.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 11.37 points
+SL: 22.75 points
+Success Rate: 75.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 17.63 points
+SL: 34.69 points
+Success Rate: 65.22%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Sell 📉
+TP: 24.45 points
+SL: 60.28 points
+Success Rate: 73.68%
+------------------------------
+
+================================================================================
+Analysis for: 2025-05-05
+Filter level: Moderate
+================================================================================
+=== SPX Pattern Analysis for Tuesday, 2025-05-06 ===
+Based on data from Monday, 2025-05-05
+Close from Monday: 5650.38
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Buy 📈
+TP: 23.73 points
+SL: 15.82 points
+Success Rate: 60.71%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 24.86 points
+SL: 19.21 points
+Success Rate: 67.86%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 26.56 points
+SL: 13.00 points
+Success Rate: 66.67%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 24.86 points
+SL: 30.51 points
+Success Rate: 67.80%
+------------------------------
+
+================================================================================
+Analysis for: 2025-05-06
+Filter level: Moderate
+================================================================================
+=== SPX Pattern Analysis for Wednesday, 2025-05-07 ===
+Based on data from Tuesday, 2025-05-06
+Close from Tuesday: 5606.91
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 25.23 points
+SL: 24.11 points
+Success Rate: 61.54%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 25.23 points
+SL: 20.18 points
+Success Rate: 61.36%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 26.35 points
+SL: 12.90 points
+Success Rate: 66.67%
+------------------------------
+
+================================================================================
+Analysis for: 2025-05-07
+Filter level: Moderate
+================================================================================
+=== SPX Pattern Analysis for Thursday, 2025-05-08 ===
+Based on data from Wednesday, 2025-05-07
+Close from Wednesday: 5631.28
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 24.78 points
+SL: 23.65 points
+Success Rate: 64.29%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Sell 📉
+TP: 23.65 points
+SL: 22.53 points
+Success Rate: 66.67%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 24.21 points
+SL: 34.91 points
+Success Rate: 63.64%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 28.16 points
+SL: 15.20 points
+Success Rate: 63.64%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 32.66 points
+SL: 26.47 points
+Success Rate: 63.64%
+------------------------------
+
+================================================================================
+Analysis for: 2025-05-08
+Filter level: Strict
+================================================================================
+=== SPX Pattern Analysis for Friday, 2025-05-09 ===
+Based on data from Thursday, 2025-05-08
+Close from Thursday: 5663.94
+
+Filter Level: Strict
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 31.15 points
+SL: 5.66 points
+Success Rate: 70.00%
+------------------------------
+
+Filter level: Strict
+================================================================================
+=== SPX Pattern Analysis for Friday, 2025-05-09 ===
+Based on data from Thursday, 2025-05-08
+Close from Thursday: 5663.94
+
+Filter Level: Strict
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 31.15 points
+SL: 5.66 points
+Success Rate: 70.00%
+------------------------------
+
+=== SPX Pattern Analysis for Monday, 2025-05-12 ===
+Based on data from Friday, 2025-05-09
+Close from Friday: 5659.91
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 31.13 points
+SL: 13.58 points
+Success Rate: 66.67%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 23.77 points
+SL: 27.73 points
+Success Rate: 68.75%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 28.87 points
+SL: 18.68 points
+Success Rate: 66.67%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-05-13 ===
+Based on data from Monday, 2025-05-12
+Close from Monday: 5844.19
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 30.39 points
+SL: 30.97 points
+Success Rate: 70.59%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Sell 📉
+TP: 25.13 points
+SL: 15.78 points
+Success Rate: 75.00%
+------------------------------
+
+=== SPX Pattern Analysis for Wednesday, 2025-05-14 ===
+Based on data from Tuesday, 2025-05-13
+Close from Tuesday: 5886.55
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 28.84 points
+SL: 46.50 points
+Success Rate: 88.24%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 26.49 points
+SL: 34.14 points
+Success Rate: 70.59%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 27.08 points
+SL: 17.66 points
+Success Rate: 77.78%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 25.31 points
+SL: 29.43 points
+Success Rate: 72.22%
+------------------------------
+
+=== SPX Pattern Analysis for Thursday, 2025-05-15 ===
+Based on data from Wednesday, 2025-05-14
+Close from Wednesday: 5892.58
+
+Filter Level: Minimum
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 15.91 points
+SL: 15.32 points
+Success Rate: 65.62%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 18.86 points
+SL: 11.79 points
+Success Rate: 60.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 12.96 points
+SL: 16.50 points
+Success Rate: 65.71%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 15.32 points
+SL: 14.14 points
+Success Rate: 61.43%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 1:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 14.14 points
+SL: 7.66 points
+Success Rate: 64.29%
+------------------------------
+
+===== Action Plan =====
+Entry: 2:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 13.55 points
+SL: 14.73 points
+Success Rate: 65.00%
+------------------------------
+
+=== SPX Pattern Analysis for Friday, 2025-05-16 ===
+Based on data from Thursday, 2025-05-15
+Close from Thursday: 5916.93
+
+Filter Level: Minimum
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 14.20 points
+SL: 13.02 points
+Success Rate: 68.25%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Sell 📉
+TP: 15.38 points
+SL: 13.61 points
+Success Rate: 64.71%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 14.20 points
+SL: 15.98 points
+Success Rate: 63.49%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 14.20 points
+SL: 18.93 points
+Success Rate: 67.61%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Sell 📉
+TP: 18.34 points
+SL: 13.02 points
+Success Rate: 62.96%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 2:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 13.61 points
+SL: 14.79 points
+Success Rate: 65.00%
+------------------------------
+
+=== SPX Pattern Analysis for Monday, 2025-05-19 ===
+Based on data from Friday, 2025-05-16
+Close from Friday: 5958.38
+
+Filter Level: Minimum
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 15.49 points
+SL: 16.68 points
+Success Rate: 64.41%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 13.70 points
+SL: 13.11 points
+Success Rate: 63.24%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 14.30 points
+SL: 19.07 points
+Success Rate: 67.61%
+------------------------------
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 16.68 points
+SL: 17.28 points
+Success Rate: 61.18%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-05-20 ===
+Based on data from Monday, 2025-05-19
+Close from Monday: 5963.60
+
+Filter Level: Moderate
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 39.96 points
+SL: 19.68 points
+Success Rate: 61.54%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Sell 📉
+TP: 33.99 points
+SL: 15.51 points
+Success Rate: 69.23%
+------------------------------
+
+=== SPX Pattern Analysis for Wednesday, 2025-05-21 ===
+Based on data from Tuesday, 2025-05-20
+Close from Tuesday: 5940.46
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 25.54 points
+SL: 20.79 points
+Success Rate: 76.47%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 24.36 points
+SL: 26.73 points
+Success Rate: 70.59%
+------------------------------
+
+=== SPX Pattern Analysis for Thursday, 2025-05-22 ===
+Based on data from Wednesday, 2025-05-21
+Close from Wednesday: 5844.61
+
+Filter Level: Minimum
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 14.03 points
+SL: 16.36 points
+Success Rate: 62.07%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 10:30AM CT
+Direction: Buy 📈
+TP: 12.86 points
+SL: 8.77 points
+Success Rate: 61.02%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 13.44 points
+SL: 13.44 points
+Success Rate: 61.02%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 14.03 points
+SL: 18.12 points
+Success Rate: 61.49%
+------------------------------
+
+=== SPX Pattern Analysis for Friday, 2025-05-23 ===
+Based on data from Thursday, 2025-05-22
+Close from Thursday: 5842.01
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Sell 📉
+TP: 24.54 points
+SL: 36.22 points
+Success Rate: 76.92%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 2:30PM CT
+Direction: Buy 📈
+TP: 32.13 points
+SL: 5.84 points
+Success Rate: 70.00%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-05-27 ===
+Based on data from Friday, 2025-05-23
+Close from Friday: 5802.82
+
+Filter Level: Moderate
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 24.95 points
+SL: 31.92 points
+Success Rate: 69.49%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-05-27 ===
+Based on data from Friday, 2025-05-23
+Close from Friday: 5802.82
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 10:30AM CT
+Direction: Buy 📈
+TP: 23.21 points
+SL: 14.51 points
+Success Rate: 61.54%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 24.37 points
+SL: 31.92 points
+Success Rate: 69.64%
+------------------------------
+
+=== SPX Pattern Analysis for Wednesday, 2025-05-28 ===
+Based on data from Tuesday, 2025-05-27
+Close from Tuesday: 5921.54
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 31.38 points
+SL: 13.03 points
+Success Rate: 70.59%
+------------------------------
+
+=== SPX Pattern Analysis for Wednesday, 2025-05-28 ===
+Based on data from Tuesday, 2025-05-27
+Close from Tuesday: 5921.54
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 24.28 points
+SL: 24.87 points
+Success Rate: 60.98%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Sell 📉
+TP: 25.46 points
+SL: 30.79 points
+Success Rate: 63.41%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Sell 📉
+TP: 31.38 points
+SL: 13.03 points
+Success Rate: 70.59%
+------------------------------
+
+=== SPX Pattern Analysis for Thursday, 2025-05-29 ===
+Based on data from Wednesday, 2025-05-28
+Close from Wednesday: 5888.55
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 24.73 points
+SL: 20.02 points
+Success Rate: 68.97%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 25.32 points
+SL: 14.13 points
+Success Rate: 68.18%
+------------------------------
+
+=== SPX Pattern Analysis for Friday, 2025-05-30 ===
+Based on data from Thursday, 2025-05-29
+Close from Thursday: 5912.17
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 31.33 points
+SL: 14.19 points
+Success Rate: 69.23%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Buy 📈
+TP: 31.93 points
+SL: 36.06 points
+Success Rate: 68.42%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 10:30AM CT
+Direction: Buy 📈
+TP: 27.79 points
+SL: 17.15 points
+Success Rate: 62.26%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 26.60 points
+SL: 18.92 points
+Success Rate: 60.71%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 29.56 points
+SL: 19.51 points
+Success Rate: 69.23%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 24.83 points
+SL: 32.52 points
+Success Rate: 69.64%
+------------------------------
+
+=== SPX Pattern Analysis for Friday, 2025-05-30 ===
+Based on data from Thursday, 2025-05-29
+Close from Thursday: 5912.17
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 31.33 points
+SL: 14.19 points
+Success Rate: 69.23%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Buy 📈
+TP: 31.93 points
+SL: 36.06 points
+Success Rate: 68.42%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 10:30AM CT
+Direction: Buy 📈
+TP: 28.38 points
+SL: 16.55 points
+Success Rate: 61.82%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 26.60 points
+SL: 18.92 points
+Success Rate: 60.71%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Buy 📈
+TP: 29.56 points
+SL: 19.51 points
+Success Rate: 69.23%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 25.42 points
+SL: 32.52 points
+Success Rate: 69.49%
+------------------------------
+
+=== SPX Pattern Analysis for Friday, 2025-05-30 ===
+Based on data from Thursday, 2025-05-29
+Close from Thursday: 5912.17
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 24.24 points
+SL: 20.69 points
+Success Rate: 70.00%
+------------------------------
+
+=== SPX Pattern Analysis for Monday, 2025-06-02 ===
+Based on data from Friday, 2025-05-30
+Close from Friday: 5911.69
+
+Filter Level: Strict
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:00AM CT
+Direction: Buy 📈
+TP: 25.42 points
+SL: 29.56 points
+Success Rate: 75.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 8:45AM CT
+Exit: 9:15AM CT
+Direction: Sell 📉
+TP: 26.60 points
+SL: 26.01 points
+Success Rate: 70.00%
+------------------------------
+
+=== SPX Pattern Analysis for Monday, 2025-06-02 ===
+Based on data from Friday, 2025-05-30
+Close from Friday: 5911.69
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 36.06 points
+SL: 44.93 points
+Success Rate: 65.00%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 24.83 points
+SL: 20.69 points
+Success Rate: 60.42%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Sell 📉
+TP: 30.15 points
+SL: 26.60 points
+Success Rate: 60.00%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 24.83 points
+SL: 32.51 points
+Success Rate: 69.64%
+------------------------------
+
+=== SPX Pattern Analysis for Tuesday, 2025-06-03 ===
+Based on data from Monday, 2025-06-02
+Close from Monday: 5935.94
+
+Filter Level: Moderate
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Sell 📉
+TP: 26.71 points
+SL: 35.62 points
+Success Rate: 66.04%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:00AM CT
+Exit: 10:00AM CT
+Direction: Buy 📈
+TP: 30.87 points
+SL: 22.56 points
+Success Rate: 64.15%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 23.74 points
+SL: 10.09 points
+Success Rate: 60.00%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Sell 📉
+TP: 26.12 points
+SL: 8.31 points
+Success Rate: 60.00%
+------------------------------
+
+=== SPX Pattern Analysis for Wednesday, 2025-06-04 ===
+Based on data from Tuesday, 2025-06-03
+Close from Tuesday: 5970.37
+
+Filter Level: Minimum
+
+MORNING SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 8:31AM CT
+Exit: 9:30AM CT
+Direction: Buy 📈
+TP: 14.33 points
+SL: 12.54 points
+Success Rate: 67.19%
+------------------------------
+
+===== Action Plan =====
+Entry: 9:30AM CT
+Exit: 11:30AM CT
+Direction: Buy 📈
+TP: 13.13 points
+SL: 11.94 points
+Success Rate: 69.44%
+------------------------------
+
+===== Action Plan =====
+Entry: 10:30AM CT
+Exit: 12:30PM CT
+Direction: Buy 📈
+TP: 13.13 points
+SL: 12.54 points
+Success Rate: 62.71%
+------------------------------
+
+MIXED SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 11:30AM CT
+Exit: 1:30PM CT
+Direction: Sell 📉
+TP: 17.31 points
+SL: 13.13 points
+Success Rate: 61.11%
+------------------------------
+
+AFTERNOON SESSION PATTERNS:
+==================================================
+
+===== Action Plan =====
+Entry: 12:30PM CT
+Exit: 3:00PM CT
+Direction: Buy 📈
+TP: 16.72 points
+SL: 16.72 points
+Success Rate: 61.05%
+------------------------------
+
+

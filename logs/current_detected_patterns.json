@@ -1,0 +1,24 @@
+{
+  "pattern_day": "Monday",
+  "pattern_date": "2025-06-09",
+  "based_on_day": "Friday",
+  "based_on_date": "2025-06-06",
+  "close_price": 6000.36,
+  "filter_level": "Moderate",
+  "patterns": {
+    "sessions": {
+      "morning": [],
+      "mixed": [],
+      "afternoon": [
+        {
+          "entry_time": "12:30PM CT",
+          "exit_time": "3:00PM CT",
+          "direction": "Buy",
+          "target_points": 31.2,
+          "stop_loss_points": 10.2,
+          "success_rate": 60.0
+        }
+      ]
+    }
+  }
+}

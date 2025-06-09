@@ -1,0 +1,443 @@
+[
+  {
+    "pattern_day": "Tuesday",
+    "pattern_date": "2025-04-15",
+    "based_on_day": "Monday",
+    "based_on_date": "2025-04-14",
+    "close_price": 5405.97,
+    "filter_level": "Strict",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "8:30AM CT",
+            "exit_time": "9:30AM CT",
+            "direction": "Sell",
+            "target_points": 36.76,
+            "stop_loss_points": 22.71,
+            "success_rate": 93.75
+          },
+          {
+            "entry_time": "9:00AM CT",
+            "exit_time": "10:00AM CT",
+            "direction": "Buy",
+            "target_points": 30.27,
+            "stop_loss_points": 36.22,
+            "success_rate": 70.0
+          },
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "10:30AM CT",
+            "direction": "Buy",
+            "target_points": 23.25,
+            "stop_loss_points": 20.0,
+            "success_rate": 70.37
+          },
+          {
+            "entry_time": "10:30AM CT",
+            "exit_time": "12:30PM CT",
+            "direction": "Buy",
+            "target_points": 23.79,
+            "stop_loss_points": 36.22,
+            "success_rate": 80.0
+          }
+        ],
+        "mixed": [
+          {
+            "entry_time": "11:30AM CT",
+            "exit_time": "1:30PM CT",
+            "direction": "Buy",
+            "target_points": 36.22,
+            "stop_loss_points": 17.3,
+            "success_rate": 80.0
+          }
+        ],
+        "afternoon": [
+          {
+            "entry_time": "1:30PM CT",
+            "exit_time": "2:30PM CT",
+            "direction": "Buy",
+            "target_points": 22.16,
+            "stop_loss_points": 19.46,
+            "success_rate": 75.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "pattern_day": "Thursday",
+    "pattern_date": "2025-04-17",
+    "based_on_day": "Wednesday",
+    "based_on_date": "2025-04-16",
+    "close_price": 5275.7,
+    "filter_level": "Moderate",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "10:30AM CT",
+            "direction": "Buy",
+            "target_points": 29.54,
+            "stop_loss_points": 17.94,
+            "success_rate": 65.52
+          },
+          {
+            "entry_time": "10:30AM CT",
+            "exit_time": "12:30PM CT",
+            "direction": "Buy",
+            "target_points": 21.1,
+            "stop_loss_points": 27.96,
+            "success_rate": 65.38
+          }
+        ],
+        "mixed": [],
+        "afternoon": []
+      }
+    }
+  },
+  {
+    "pattern_day": "Monday",
+    "pattern_date": "2025-04-21",
+    "based_on_day": "Thursday",
+    "based_on_date": "2025-04-17",
+    "close_price": 5282.7,
+    "filter_level": "Strict",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "8:45AM CT",
+            "exit_time": "9:15AM CT",
+            "direction": "Sell",
+            "target_points": 24.83,
+            "stop_loss_points": 31.7,
+            "success_rate": 83.33
+          },
+          {
+            "entry_time": "9:00AM CT",
+            "exit_time": "10:00AM CT",
+            "direction": "Buy",
+            "target_points": 43.32,
+            "stop_loss_points": 34.87,
+            "success_rate": 75.0
+          }
+        ],
+        "mixed": [],
+        "afternoon": [
+          {
+            "entry_time": "12:30PM CT",
+            "exit_time": "2:30PM CT",
+            "direction": "Buy",
+            "target_points": 29.58,
+            "stop_loss_points": 35.39,
+            "success_rate": 75.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "pattern_day": "Tuesday",
+    "pattern_date": "2025-04-22",
+    "based_on_day": "Monday",
+    "based_on_date": "2025-04-21",
+    "close_price": 5158.2,
+    "filter_level": "Strict",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "11:30AM CT",
+            "direction": "Buy",
+            "target_points": 23.73,
+            "stop_loss_points": 9.8,
+            "success_rate": 81.82
+          },
+          {
+            "entry_time": "10:30AM CT",
+            "exit_time": "12:30PM CT",
+            "direction": "Sell",
+            "target_points": 26.31,
+            "stop_loss_points": 20.63,
+            "success_rate": 72.73
+          }
+        ],
+        "mixed": [],
+        "afternoon": [
+          {
+            "entry_time": "12:30PM CT",
+            "exit_time": "2:30PM CT",
+            "direction": "Buy",
+            "target_points": 31.47,
+            "stop_loss_points": 15.47,
+            "success_rate": 72.73
+          }
+        ]
+      }
+    }
+  },
+  {
+    "pattern_day": "Thursday",
+    "pattern_date": "2025-04-24",
+    "based_on_day": "Wednesday",
+    "based_on_date": "2025-04-23",
+    "close_price": 5375.86,
+    "filter_level": "Strict",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "8:30AM CT",
+            "exit_time": "9:00AM CT",
+            "direction": "Buy",
+            "target_points": 24.19,
+            "stop_loss_points": 32.79,
+            "success_rate": 77.78
+          },
+          {
+            "entry_time": "8:45AM CT",
+            "exit_time": "9:15AM CT",
+            "direction": "Sell",
+            "target_points": 24.73,
+            "stop_loss_points": 21.5,
+            "success_rate": 83.33
+          },
+          {
+            "entry_time": "10:30AM CT",
+            "exit_time": "12:30PM CT",
+            "direction": "Buy",
+            "target_points": 26.34,
+            "stop_loss_points": 19.35,
+            "success_rate": 73.33
+          }
+        ],
+        "mixed": [
+          {
+            "entry_time": "11:30AM CT",
+            "exit_time": "1:30PM CT",
+            "direction": "Buy",
+            "target_points": 29.57,
+            "stop_loss_points": 11.83,
+            "success_rate": 80.0
+          }
+        ],
+        "afternoon": [
+          {
+            "entry_time": "12:30PM CT",
+            "exit_time": "3:00PM CT",
+            "direction": "Buy",
+            "target_points": 30.64,
+            "stop_loss_points": 13.44,
+            "success_rate": 73.33
+          }
+        ]
+      }
+    }
+  },
+  {
+    "pattern_day": "Monday",
+    "pattern_date": "2025-04-28",
+    "based_on_day": "Friday",
+    "based_on_date": "2025-04-25",
+    "close_price": 5525.21,
+    "filter_level": "Minimum",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "9:00AM CT",
+            "exit_time": "10:00AM CT",
+            "direction": "Sell",
+            "target_points": 22.1,
+            "stop_loss_points": 19.89,
+            "success_rate": 60.0
+          },
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "11:30AM CT",
+            "direction": "Sell",
+            "target_points": 25.97,
+            "stop_loss_points": 27.07,
+            "success_rate": 60.0
+          }
+        ],
+        "mixed": [],
+        "afternoon": []
+      }
+    }
+  },
+  {
+    "pattern_day": "Wednesday",
+    "pattern_date": "2025-04-30",
+    "based_on_day": "Tuesday",
+    "based_on_date": "2025-04-29",
+    "close_price": 5560.83,
+    "filter_level": "Moderate",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "11:30AM CT",
+            "direction": "Buy",
+            "target_points": 23.36,
+            "stop_loss_points": 10.01,
+            "success_rate": 66.67
+          }
+        ],
+        "mixed": [],
+        "afternoon": [
+          {
+            "entry_time": "12:30PM CT",
+            "exit_time": "3:00PM CT",
+            "direction": "Buy",
+            "target_points": 23.36,
+            "stop_loss_points": 31.7,
+            "success_rate": 66.67
+          }
+        ]
+      }
+    }
+  },
+  {
+    "pattern_day": "Monday",
+    "pattern_date": "2025-05-02",
+    "based_on_day": null,
+    "based_on_date": null,
+    "close_price": null,
+    "filter_level": "Moderate",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "8:30AM CT",
+            "exit_time": "9:30AM CT",
+            "direction": "Buy",
+            "target_points": 22.42,
+            "stop_loss_points": 15.13,
+            "success_rate": 83.33
+          },
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "11:30AM CT",
+            "direction": "Buy",
+            "target_points": 23.54,
+            "stop_loss_points": 10.09,
+            "success_rate": 66.67
+          }
+        ],
+        "mixed": [],
+        "afternoon": []
+      }
+    }
+  },
+  {
+    "pattern_day": "Tuesday",
+    "pattern_date": "2025-05-06",
+    "based_on_day": "Monday",
+    "based_on_date": "2025-05-05",
+    "close_price": 5650.38,
+    "filter_level": "Moderate",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "9:00AM CT",
+            "exit_time": "10:00AM CT",
+            "direction": "Buy",
+            "target_points": 23.73,
+            "stop_loss_points": 15.82,
+            "success_rate": 60.71
+          },
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "11:30AM CT",
+            "direction": "Buy",
+            "target_points": 24.86,
+            "stop_loss_points": 19.21,
+            "success_rate": 67.86
+          },
+          {
+            "entry_time": "10:30AM CT",
+            "exit_time": "12:30PM CT",
+            "direction": "Buy",
+            "target_points": 26.56,
+            "stop_loss_points": 13.0,
+            "success_rate": 66.67
+          }
+        ],
+        "mixed": [],
+        "afternoon": [
+          {
+            "entry_time": "12:30PM CT",
+            "exit_time": "3:00PM CT",
+            "direction": "Buy",
+            "target_points": 24.86,
+            "stop_loss_points": 30.51,
+            "success_rate": 67.8
+          }
+        ]
+      }
+    }
+  },
+  {
+    "pattern_day": "Thursday",
+    "pattern_date": "2025-05-08",
+    "based_on_day": "Wednesday",
+    "based_on_date": "2025-05-07",
+    "close_price": 5631.28,
+    "filter_level": "Moderate",
+    "patterns": {
+      "sessions": {
+        "morning": [
+          {
+            "entry_time": "8:31AM CT",
+            "exit_time": "9:30AM CT",
+            "direction": "Sell",
+            "target_points": 24.78,
+            "stop_loss_points": 23.65,
+            "success_rate": 64.29
+          },
+          {
+            "entry_time": "9:00AM CT",
+            "exit_time": "10:00AM CT",
+            "direction": "Sell",
+            "target_points": 23.65,
+            "stop_loss_points": 22.53,
+            "success_rate": 66.67
+          },
+          {
+            "entry_time": "9:30AM CT",
+            "exit_time": "11:30AM CT",
+            "direction": "Sell",
+            "target_points": 24.21,
+            "stop_loss_points": 34.91,
+            "success_rate": 63.64
+          },
+          {
+            "entry_time": "10:30AM CT",
+            "exit_time": "12:30PM CT",
+            "direction": "Sell",
+            "target_points": 28.16,
+            "stop_loss_points": 15.2,
+            "success_rate": 63.64
+          }
+        ],
+        "mixed": [],
+        "afternoon": [
+          {
+            "entry_time": "12:30PM CT",
+            "exit_time": "3:00PM CT",
+            "direction": "Buy",
+            "target_points": 32.66,
+            "stop_loss_points": 26.47,
+            "success_rate": 63.64
+          }
+        ]
+      }
+    }
+  }
+]

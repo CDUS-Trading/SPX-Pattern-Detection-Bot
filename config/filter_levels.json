@@ -1,0 +1,32 @@
+{
+    "filter_levels": [
+        {
+            "name": "Strict",
+            "min_tp": 0.4,
+            "min_success_rate": 0.7,
+            "min_occurrences": 10,
+            "min_risk_reward": 0.3
+        },
+        {
+            "name": "Moderate",
+            "min_tp": 0.4,
+            "min_success_rate": 0.6,
+            "min_occurrences": 10,
+            "min_risk_reward": 0.3
+        },
+        {
+            "name": "Minimum",
+            "min_tp": 0.2,
+            "min_success_rate": 0.6,
+            "min_occurrences": 5,
+            "min_risk_reward": 0.2
+        },
+        {
+            "name": "Poor",
+            "min_tp": 0,
+            "min_success_rate": 0.5,
+            "min_occurrences": 5,
+            "min_risk_reward": 0
+        }
+    ]
+} 
