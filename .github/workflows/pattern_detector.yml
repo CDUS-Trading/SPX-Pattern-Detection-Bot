@@ -32,9 +32,14 @@ jobs:
       - name: Download 1-min SPX data
         run: python src/data/downloader.py
 
-      - name: Update master pattern database (runs collector only on Saturday)
-        run: python src/patterns/collector.py
-
+      - name: Update master pattern database (only on Saturday)
+        run: |
+           if [ "$(date +%u)" -eq 6 ]; then
+               echo "Today is Saturday. Running collector.py..."
+               python src/patterns/collector.py
+           else
+               echo "Not Saturday. Skipping collector.py."
+           fi
       - name: Run pattern detector
         run: python src/patterns/detector.py
 
