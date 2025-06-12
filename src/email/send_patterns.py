@@ -31,7 +31,7 @@ def send_email():
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(EMAIL_USER, EMAIL_PASS)
-            server.sendmail(EMAIL_USER, EMAIL_TO, msg.as_string())
+            server.sendmail(EMAIL_USER, EMAIL_TO.split(','), msg.as_string())
         print("✅ Email sent successfully.")
     except Exception as e:
         print(f"❌ Failed to send email: {e}")
