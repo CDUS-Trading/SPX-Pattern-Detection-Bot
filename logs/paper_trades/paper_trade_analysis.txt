@@ -1,0 +1,13 @@
+Comprehensive Trade Analysis:
+Total Trades: 62
+Total Profit/Loss: 31.551500000000374
+Average Percentage Return: 0.06%
+Percentage of Profitable Trades: 38.71%
+Profit/Loss Ratio: 1.03
+Risk/Reward Ratio: 1.28
+Maximum Drawdown: -1.72
+Win Rate: 38.71%
+Loss Rate: 48.39%
+Average Holding Time: 0.71 hours
+Volatility: 0.25
+Sharpe Ratio: 0.23

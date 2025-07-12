@@ -1,0 +1,47 @@
+name: SPX Pattern Detection Bot
+
+on:
+  schedule:
+    # Weekdays at 9 PM CST => 3 AM UTC
+    - cron: '0 3 * * 1-5'
+    # Saturday at 2 PM CST => 8 PM UTC
+    - cron: '0 20 * * 6'
+  workflow_dispatch:
+
+jobs:
+  detect-patterns:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y gcc python3-dev
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install --prefer-binary -r requirements.txt
+
+      - name: Download 1-min SPX data
+        run: python src/data/downloader.py
+
+      - name: Update master pattern database (runs collector only on Saturday)
+        run: python src/patterns/collector.py
+
+      - name: Run pattern detector
+        run: python src/patterns/run_detector.py
+
+      - name: Send pattern summary via email
+        if: always()
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python src/email/send_patterns.py

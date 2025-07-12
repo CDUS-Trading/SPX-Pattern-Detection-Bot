@@ -1,0 +1,58 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Development and Testing Guide
+
+## Setup Process
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Configure environment:
+   - Create `.env` file with the following keys:
+     - `APCA_API_KEY_ID`
+     - `APCA_API_SECRET_KEY`
+     - `APCA_API_BASE_URL`
+   - Set up API keys for paper trading
+   - Configure base URL for Alpaca API
+
+## Testing Procedures
+1. Pattern Generation Testing
+   - Test pattern generation in [src/patterns/](mdc:src/patterns)
+   - Verify pattern file format
+   - Check success rate calculations
+
+2. Trading Logic Testing
+   - Use paper trading environment
+   - Test position management
+   - Verify take profit and stop loss execution
+   - Check trade logging
+
+3. Data Processing
+   - Validate market data format
+   - Test data loading and processing
+   - Verify trade log generation
+
+## Debugging
+1. Check logs in [logs/](mdc:logs) directory
+2. Monitor trade execution in Alpaca dashboard
+3. Verify pattern file generation
+4. Check position management logic
+
+## Best Practices
+1. Always use paper trading for testing
+2. Maintain comprehensive trade logs
+3. Follow single position rule
+4. Document pattern changes
+5. Regular success rate analysis
+6. Monitor system performance
+
+## Common Issues
+1. API connection problems
+2. Pattern file format errors
+3. Position management conflicts
+4. Time zone handling
+5. Data synchronization issues

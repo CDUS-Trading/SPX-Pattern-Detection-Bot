@@ -1,0 +1,4626 @@
+
+=== Trade Simulation Summary ===
+Period: 2025-01-01 to 2025-05-09
+Total Trading Days: 89
+Filter Type: Minimum
+Total Trades: 574
+Winning Trades: 291
+Losing Trades: 283
+Win Rate: 50.70%
+Total Profit/Loss: 671.80 points ($3359.00)
+Average Win: 16.42 points ($82.10)
+Average Loss: 14.51 points ($72.55)
+Profit Factor: 1.13
+
+=== Additional Statistics ===
+Maximum Drawdown: 300.13 points ($1500.65)
+Longest Winning Streak: 8
+Longest Losing Streak: 7
+Average Trade Duration: 49.7 minutes
+Bullish Trades: 335 (Win Rate: 52.24%)
+Bearish Trades: 239 (Win Rate: 48.54%)
+
+=== Exit Type Statistics ===
+Take Profit (TP) Exits: 194 (33.8% of trades)
+  - Win Rate: 100.0%
+  - Average P/L: 20.41 points ($102.05)
+Stop Loss (SL) Exits: 205 (35.7% of trades)
+  - Win Rate: 0.0%
+  - Average P/L: -16.02 points ($-80.08)
+Time-based Exits: 175 (30.5% of trades)
+  - Win Rate: 55.4%
+  - Average P/L: -0.02 points ($-0.12)
+
+=== Trade Details ===
+
+Date: 2025-01-03
+Entry: 8:31AM CT @ 5899.91
+Exit: 9:30AM CT @ 5916.93
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -17.02 points ($-85.10)
+Duration: 8.0 minutes
+
+Date: 2025-01-03
+Entry: 9:00AM CT @ 5903.62
+Exit: 10:00AM CT @ 5914.38
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 10.76 points ($53.80)
+Duration: 60.0 minutes
+
+Date: 2025-01-03
+Entry: 9:30AM CT @ 5905.42
+Exit: 11:30AM CT @ 5923.61
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 18.19 points ($90.95)
+Duration: 62.0 minutes
+
+Date: 2025-01-03
+Entry: 10:30AM CT @ 5919.79
+Exit: 12:30PM CT @ 5937.40
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 17.61 points ($88.05)
+Duration: 119.0 minutes
+
+Date: 2025-01-03
+Entry: 11:30AM CT @ 5925.07
+Exit: 1:30PM CT @ 5944.18
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -19.11 points ($-95.55)
+Duration: 120.0 minutes
+
+Date: 2025-01-03
+Entry: 1:30PM CT @ 5944.10
+Exit: 2:30PM CT @ 5940.74
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -3.36 points ($-16.80)
+Duration: 60.0 minutes
+
+Date: 2025-01-03
+Entry: 12:30PM CT @ 5937.89
+Exit: 3:00PM CT @ 5942.48
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -4.59 points ($-22.95)
+Duration: 150.0 minutes
+
+Date: 2025-01-06
+Entry: 8:31AM CT @ 5989.09
+Exit: 9:30AM CT @ 6003.35
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.26 points ($71.30)
+Duration: 15.0 minutes
+
+Date: 2025-01-06
+Entry: 9:00AM CT @ 6002.77
+Exit: 10:00AM CT @ 6012.87
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -10.10 points ($-50.50)
+Duration: 60.0 minutes
+
+Date: 2025-01-06
+Entry: 9:30AM CT @ 6012.66
+Exit: 11:30AM CT @ 6008.30
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -4.36 points ($-21.80)
+Duration: 120.0 minutes
+
+Date: 2025-01-06
+Entry: 10:30AM CT @ 6018.82
+Exit: 12:30PM CT @ 5999.80
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -19.02 points ($-95.10)
+Duration: 81.0 minutes
+
+Date: 2025-01-06
+Entry: 11:30AM CT @ 6009.48
+Exit: 1:30PM CT @ 5972.64
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -36.84 points ($-184.20)
+Duration: 91.0 minutes
+
+Date: 2025-01-06
+Entry: 1:30PM CT @ 5977.11
+Exit: 2:30PM CT @ 5970.57
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -6.54 points ($-32.70)
+Duration: 27.0 minutes
+
+Date: 2025-01-06
+Entry: 12:30PM CT @ 5997.19
+Exit: 3:00PM CT @ 5974.01
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -23.18 points ($-115.90)
+Duration: 31.0 minutes
+
+Date: 2025-01-07
+Entry: 8:31AM CT @ 5998.23
+Exit: 9:30AM CT @ 5975.52
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 22.71 points ($113.55)
+Duration: 29.0 minutes
+
+Date: 2025-01-07
+Entry: 9:00AM CT @ 5985.92
+Exit: 10:00AM CT @ 5963.81
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -22.11 points ($-110.55)
+Duration: 1.0 minutes
+
+Date: 2025-01-07
+Entry: 9:30AM CT @ 5958.92
+Exit: 11:30AM CT @ 5942.79
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 16.13 points ($80.65)
+Duration: 8.0 minutes
+
+Date: 2025-01-07
+Entry: 10:30AM CT @ 5954.21
+Exit: 12:30PM CT @ 5936.88
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -17.33 points ($-86.65)
+Duration: 22.0 minutes
+
+Date: 2025-01-07
+Entry: 11:30AM CT @ 5929.34
+Exit: 1:30PM CT @ 5946.07
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 16.73 points ($83.65)
+Duration: 56.0 minutes
+
+Date: 2025-01-07
+Entry: 1:30PM CT @ 5933.39
+Exit: 2:30PM CT @ 5920.24
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.15 points ($-65.75)
+Duration: 31.0 minutes
+
+Date: 2025-01-07
+Entry: 12:30PM CT @ 5945.71
+Exit: 3:00PM CT @ 5919.42
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -26.29 points ($-131.45)
+Duration: 91.0 minutes
+
+Date: 2025-01-08
+Entry: 8:31AM CT @ 5902.52
+Exit: 9:30AM CT @ 5888.93
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.59 points ($-67.95)
+Duration: 43.0 minutes
+
+Date: 2025-01-08
+Entry: 9:00AM CT @ 5895.33
+Exit: 10:00AM CT @ 5904.89
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 9.56 points ($47.80)
+Duration: 60.0 minutes
+
+Date: 2025-01-08
+Entry: 9:30AM CT @ 5887.82
+Exit: 11:30AM CT @ 5910.27
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 22.45 points ($112.25)
+Duration: 66.0 minutes
+
+Date: 2025-01-08
+Entry: 10:30AM CT @ 5903.70
+Exit: 12:30PM CT @ 5917.88
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.18 points ($70.90)
+Duration: 11.0 minutes
+
+Date: 2025-01-08
+Entry: 11:30AM CT @ 5878.57
+Exit: 1:30PM CT @ 5905.16
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -26.59 points ($-132.95)
+Duration: 36.0 minutes
+
+Date: 2025-01-08
+Entry: 1:30PM CT @ 5925.37
+Exit: 2:30PM CT @ 5913.24
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 12.13 points ($60.65)
+Duration: 60.0 minutes
+
+Date: 2025-01-08
+Entry: 2:30PM CT @ 5913.57
+Exit: 3:00PM CT @ 5918.22
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -4.65 points ($-23.25)
+Duration: 30.0 minutes
+
+Date: 2025-01-13
+Entry: 8:31AM CT @ 5777.73
+Exit: 9:30AM CT @ 5775.40
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -2.33 points ($-11.65)
+Duration: 11.0 minutes
+
+Date: 2025-01-13
+Entry: 9:00AM CT @ 5799.68
+Exit: 10:00AM CT @ 5797.55
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -2.13 points ($-10.65)
+Duration: 60.0 minutes
+
+Date: 2025-01-13
+Entry: 9:30AM CT @ 5781.10
+Exit: 11:30AM CT @ 5803.83
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 22.73 points ($113.65)
+Duration: 12.0 minutes
+
+Date: 2025-01-13
+Entry: 10:30AM CT @ 5791.48
+Exit: 12:30PM CT @ 5803.13
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.65 points ($58.25)
+Duration: 52.0 minutes
+
+Date: 2025-01-13
+Entry: 11:30AM CT @ 5803.55
+Exit: 1:30PM CT @ 5809.38
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -5.83 points ($-29.15)
+Duration: 27.0 minutes
+
+Date: 2025-01-13
+Entry: 1:30PM CT @ 5824.31
+Exit: 2:30PM CT @ 5827.81
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -3.50 points ($-17.50)
+Duration: 11.0 minutes
+
+Date: 2025-01-13
+Entry: 2:30PM CT @ 5822.04
+Exit: 3:00PM CT @ 5832.53
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -10.49 points ($-52.45)
+Duration: 22.0 minutes
+
+Date: 2025-01-14
+Entry: 8:31AM CT @ 5860.92
+Exit: 9:30AM CT @ 5852.28
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -8.64 points ($-43.20)
+Duration: 59.0 minutes
+
+Date: 2025-01-14
+Entry: 9:00AM CT @ 5844.59
+Exit: 10:00AM CT @ 5865.60
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -21.01 points ($-105.05)
+Duration: 12.0 minutes
+
+Date: 2025-01-14
+Entry: 9:30AM CT @ 5852.64
+Exit: 11:30AM CT @ 5833.96
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 18.68 points ($93.40)
+Duration: 32.0 minutes
+
+Date: 2025-01-14
+Entry: 10:30AM CT @ 5830.49
+Exit: 12:30PM CT @ 5840.85
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 10.36 points ($51.80)
+Duration: 120.0 minutes
+
+Date: 2025-01-14
+Entry: 11:30AM CT @ 5818.42
+Exit: 1:30PM CT @ 5840.60
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 22.18 points ($110.90)
+Duration: 58.0 minutes
+
+Date: 2025-01-14
+Entry: 1:30PM CT @ 5851.65
+Exit: 2:30PM CT @ 5840.56
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -11.09 points ($-55.45)
+Duration: 23.0 minutes
+
+Date: 2025-01-14
+Entry: 12:30PM CT @ 5841.38
+Exit: 3:00PM CT @ 5818.62
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -22.76 points ($-113.80)
+Duration: 92.0 minutes
+
+Date: 2025-01-15
+Entry: 8:31AM CT @ 5923.52
+Exit: 9:30AM CT @ 5942.22
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -18.70 points ($-93.50)
+Duration: 18.0 minutes
+
+Date: 2025-01-15
+Entry: 9:00AM CT @ 5940.96
+Exit: 10:00AM CT @ 5938.48
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -2.48 points ($-12.40)
+Duration: 60.0 minutes
+
+Date: 2025-01-15
+Entry: 9:30AM CT @ 5943.88
+Exit: 11:30AM CT @ 5926.94
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -16.94 points ($-84.70)
+Duration: 60.0 minutes
+
+Date: 2025-01-15
+Entry: 10:30AM CT @ 5931.28
+Exit: 12:30PM CT @ 5944.58
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 13.30 points ($66.50)
+Duration: 120.0 minutes
+
+Date: 2025-01-15
+Entry: 11:30AM CT @ 5931.80
+Exit: 1:30PM CT @ 5953.02
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 21.22 points ($106.10)
+Duration: 120.0 minutes
+
+Date: 2025-01-15
+Entry: 1:30PM CT @ 5952.05
+Exit: 2:30PM CT @ 5956.67
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 4.62 points ($23.10)
+Duration: 60.0 minutes
+
+Date: 2025-01-15
+Entry: 2:30PM CT @ 5957.68
+Exit: 3:00PM CT @ 5949.90
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 7.78 points ($38.90)
+Duration: 30.0 minutes
+
+Date: 2025-01-16
+Entry: 8:31AM CT @ 5957.24
+Exit: 9:30AM CT @ 5944.75
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.49 points ($62.45)
+Duration: 27.0 minutes
+
+Date: 2025-01-16
+Entry: 9:00AM CT @ 5941.97
+Exit: 10:00AM CT @ 5955.11
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 13.14 points ($65.70)
+Duration: 60.0 minutes
+
+Date: 2025-01-16
+Entry: 9:30AM CT @ 5943.70
+Exit: 11:30AM CT @ 5955.60
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.90 points ($59.50)
+Duration: 29.0 minutes
+
+Date: 2025-01-16
+Entry: 10:30AM CT @ 5954.85
+Exit: 12:30PM CT @ 5941.96
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -12.89 points ($-64.45)
+Duration: 120.0 minutes
+
+Date: 2025-01-16
+Entry: 11:30AM CT @ 5958.89
+Exit: 1:30PM CT @ 5938.07
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -20.82 points ($-104.10)
+Duration: 75.0 minutes
+
+Date: 2025-01-16
+Entry: 1:30PM CT @ 5946.22
+Exit: 2:30PM CT @ 5947.70
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 1.48 points ($7.40)
+Duration: 60.0 minutes
+
+Date: 2025-01-16
+Entry: 2:30PM CT @ 5944.14
+Exit: 3:00PM CT @ 5937.32
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 6.82 points ($34.10)
+Duration: 30.0 minutes
+
+Date: 2025-01-17
+Entry: 8:31AM CT @ 5990.81
+Exit: 9:30AM CT @ 5990.08
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -0.73 points ($-3.65)
+Duration: 59.0 minutes
+
+Date: 2025-01-17
+Entry: 9:00AM CT @ 5985.63
+Exit: 10:00AM CT @ 5998.69
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -13.06 points ($-65.30)
+Duration: 51.0 minutes
+
+Date: 2025-01-17
+Entry: 9:30AM CT @ 5990.72
+Exit: 11:30AM CT @ 6006.75
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 16.03 points ($80.15)
+Duration: 54.0 minutes
+
+Date: 2025-01-17
+Entry: 10:30AM CT @ 6008.96
+Exit: 12:30PM CT @ 6011.57
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 2.61 points ($13.05)
+Duration: 120.0 minutes
+
+Date: 2025-01-17
+Entry: 11:30AM CT @ 6011.47
+Exit: 1:30PM CT @ 6005.10
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -6.37 points ($-31.85)
+Duration: 120.0 minutes
+
+Date: 2025-01-17
+Entry: 2:30PM CT @ 6002.13
+Exit: 3:00PM CT @ 5997.38
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -4.75 points ($-23.75)
+Duration: 28.0 minutes
+
+Date: 2025-01-21
+Entry: 8:31AM CT @ 6027.34
+Exit: 9:30AM CT @ 6016.55
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.79 points ($-53.95)
+Duration: 40.0 minutes
+
+Date: 2025-01-21
+Entry: 9:00AM CT @ 6025.24
+Exit: 10:00AM CT @ 6015.05
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.19 points ($-50.95)
+Duration: 11.0 minutes
+
+Date: 2025-01-21
+Entry: 9:30AM CT @ 6024.35
+Exit: 11:30AM CT @ 6038.88
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 14.53 points ($72.65)
+Duration: 120.0 minutes
+
+Date: 2025-01-21
+Entry: 10:30AM CT @ 6028.55
+Exit: 12:30PM CT @ 6042.94
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.39 points ($71.95)
+Duration: 80.0 minutes
+
+Date: 2025-01-21
+Entry: 11:30AM CT @ 6037.76
+Exit: 1:30PM CT @ 6042.85
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.09 points ($25.45)
+Duration: 120.0 minutes
+
+Date: 2025-01-21
+Entry: 1:30PM CT @ 6045.67
+Exit: 2:30PM CT @ 6039.07
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -6.60 points ($-33.00)
+Duration: 22.0 minutes
+
+Date: 2025-01-21
+Entry: 2:30PM CT @ 6048.67
+Exit: 3:00PM CT @ 6049.29
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 0.62 points ($3.10)
+Duration: 30.0 minutes
+
+Date: 2025-01-22
+Entry: 8:31AM CT @ 6078.20
+Exit: 9:30AM CT @ 6088.77
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 10.57 points ($52.85)
+Duration: 59.0 minutes
+
+Date: 2025-01-22
+Entry: 9:00AM CT @ 6087.31
+Exit: 10:00AM CT @ 6085.60
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 1.71 points ($8.55)
+Duration: 60.0 minutes
+
+Date: 2025-01-22
+Entry: 9:30AM CT @ 6089.24
+Exit: 11:30AM CT @ 6097.79
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 8.55 points ($42.75)
+Duration: 120.0 minutes
+
+Date: 2025-01-22
+Entry: 10:30AM CT @ 6094.15
+Exit: 12:30PM CT @ 6093.34
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -0.81 points ($-4.05)
+Duration: 120.0 minutes
+
+Date: 2025-01-22
+Entry: 11:30AM CT @ 6097.65
+Exit: 1:30PM CT @ 6089.24
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -8.41 points ($-42.05)
+Duration: 120.0 minutes
+
+Date: 2025-01-22
+Entry: 1:30PM CT @ 6090.45
+Exit: 2:30PM CT @ 6092.48
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 2.03 points ($10.15)
+Duration: 60.0 minutes
+
+Date: 2025-01-22
+Entry: 12:30PM CT @ 6092.12
+Exit: 3:00PM CT @ 6086.32
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -5.80 points ($-29.00)
+Duration: 150.0 minutes
+
+Date: 2025-01-23
+Entry: 8:31AM CT @ 6075.79
+Exit: 9:30AM CT @ 6079.21
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -3.42 points ($-17.10)
+Duration: 59.0 minutes
+
+Date: 2025-01-23
+Entry: 9:30AM CT @ 6079.17
+Exit: 11:30AM CT @ 6092.56
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -13.39 points ($-66.95)
+Duration: 31.0 minutes
+
+Date: 2025-01-23
+Entry: 12:30PM CT @ 6101.15
+Exit: 3:00PM CT @ 6118.19
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 17.04 points ($85.20)
+Duration: 149.0 minutes
+
+Date: 2025-01-24
+Entry: 8:31AM CT @ 6120.67
+Exit: 9:30AM CT @ 6125.56
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -4.89 points ($-24.45)
+Duration: 14.0 minutes
+
+Date: 2025-01-24
+Entry: 9:00AM CT @ 6124.10
+Exit: 10:00AM CT @ 6119.21
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -4.89 points ($-24.45)
+Duration: 3.0 minutes
+
+Date: 2025-01-24
+Entry: 9:30AM CT @ 6113.67
+Exit: 11:30AM CT @ 6114.95
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 1.28 points ($6.40)
+Duration: 120.0 minutes
+
+Date: 2025-01-24
+Entry: 10:30AM CT @ 6119.11
+Exit: 12:30PM CT @ 6105.99
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -13.12 points ($-65.60)
+Duration: 120.0 minutes
+
+Date: 2025-01-24
+Entry: 11:30AM CT @ 6114.87
+Exit: 1:30PM CT @ 6100.19
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 14.68 points ($73.40)
+Duration: 85.0 minutes
+
+Date: 2025-01-24
+Entry: 1:30PM CT @ 6094.72
+Exit: 2:30PM CT @ 6092.09
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -2.63 points ($-13.15)
+Duration: 60.0 minutes
+
+Date: 2025-01-24
+Entry: 12:30PM CT @ 6105.24
+Exit: 3:00PM CT @ 6091.17
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 14.07 points ($70.35)
+Duration: 40.0 minutes
+
+Date: 2025-01-27
+Entry: 8:31AM CT @ 5979.31
+Exit: 9:30AM CT @ 5991.51
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -12.20 points ($-61.00)
+Duration: 2.0 minutes
+
+Date: 2025-01-27
+Entry: 9:00AM CT @ 6006.62
+Exit: 10:00AM CT @ 5998.08
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -8.54 points ($-42.70)
+Duration: 4.0 minutes
+
+Date: 2025-01-27
+Entry: 9:30AM CT @ 6010.35
+Exit: 11:30AM CT @ 5998.15
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.20 points ($-61.00)
+Duration: 33.0 minutes
+
+Date: 2025-01-27
+Entry: 10:30AM CT @ 5984.75
+Exit: 12:30PM CT @ 5982.71
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 2.04 points ($10.20)
+Duration: 120.0 minutes
+
+Date: 2025-01-27
+Entry: 11:30AM CT @ 5996.67
+Exit: 1:30PM CT @ 5986.30
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.37 points ($-51.85)
+Duration: 21.0 minutes
+
+Date: 2025-01-27
+Entry: 12:30PM CT @ 5980.50
+Exit: 3:00PM CT @ 5993.92
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.42 points ($67.10)
+Duration: 46.0 minutes
+
+Date: 2025-01-28
+Entry: 8:31AM CT @ 6026.07
+Exit: 9:30AM CT @ 6045.95
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 19.88 points ($99.40)
+Duration: 59.0 minutes
+
+Date: 2025-01-28
+Entry: 9:00AM CT @ 6011.54
+Exit: 10:00AM CT @ 6030.78
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -19.24 points ($-96.20)
+Duration: 18.0 minutes
+
+Date: 2025-01-28
+Entry: 9:30AM CT @ 6046.21
+Exit: 11:30AM CT @ 6032.98
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 13.23 points ($66.15)
+Duration: 65.0 minutes
+
+Date: 2025-01-28
+Entry: 10:30AM CT @ 6034.64
+Exit: 12:30PM CT @ 6066.51
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -31.87 points ($-159.35)
+Duration: 105.0 minutes
+
+Date: 2025-01-28
+Entry: 11:30AM CT @ 6058.33
+Exit: 1:30PM CT @ 6063.44
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.11 points ($25.55)
+Duration: 120.0 minutes
+
+Date: 2025-01-28
+Entry: 1:30PM CT @ 6061.60
+Exit: 2:30PM CT @ 6070.65
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 9.05 points ($45.25)
+Duration: 60.0 minutes
+
+Date: 2025-01-28
+Entry: 2:30PM CT @ 6072.03
+Exit: 3:00PM CT @ 6067.71
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 4.32 points ($21.60)
+Duration: 30.0 minutes
+
+Date: 2025-01-29
+Entry: 8:31AM CT @ 6056.55
+Exit: 9:30AM CT @ 6052.59
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 3.96 points ($19.80)
+Duration: 59.0 minutes
+
+Date: 2025-01-29
+Entry: 9:00AM CT @ 6054.93
+Exit: 10:00AM CT @ 6048.61
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -6.32 points ($-31.60)
+Duration: 60.0 minutes
+
+Date: 2025-01-29
+Entry: 9:30AM CT @ 6050.62
+Exit: 11:30AM CT @ 6051.49
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -0.87 points ($-4.35)
+Duration: 120.0 minutes
+
+Date: 2025-01-29
+Entry: 11:30AM CT @ 6051.08
+Exit: 12:30PM CT @ 6029.84
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -21.24 points ($-106.20)
+Duration: 32.0 minutes
+
+Date: 2025-01-29
+Entry: 11:30AM CT @ 6051.08
+Exit: 1:30PM CT @ 6032.88
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -18.20 points ($-91.00)
+Duration: 31.0 minutes
+
+Date: 2025-01-29
+Entry: 1:30PM CT @ 6014.24
+Exit: 2:30PM CT @ 6028.20
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.96 points ($69.80)
+Duration: 2.0 minutes
+
+Date: 2025-01-29
+Entry: 2:30PM CT @ 6054.22
+Exit: 3:00PM CT @ 6042.08
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.14 points ($60.70)
+Duration: 8.0 minutes
+
+Date: 2025-01-30
+Entry: 8:31AM CT @ 6058.72
+Exit: 9:30AM CT @ 6074.42
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.70 points ($78.50)
+Duration: 18.0 minutes
+
+Date: 2025-01-30
+Entry: 9:00AM CT @ 6069.22
+Exit: 10:00AM CT @ 6058.95
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.27 points ($-51.35)
+Duration: 2.0 minutes
+
+Date: 2025-01-30
+Entry: 9:30AM CT @ 6046.79
+Exit: 11:30AM CT @ 6044.37
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -2.42 points ($-12.10)
+Duration: 120.0 minutes
+
+Date: 2025-01-30
+Entry: 10:30AM CT @ 6049.70
+Exit: 12:30PM CT @ 6064.19
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.49 points ($72.45)
+Duration: 27.0 minutes
+
+Date: 2025-01-30
+Entry: 11:30AM CT @ 6043.93
+Exit: 1:30PM CT @ 6058.42
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.49 points ($72.45)
+Duration: 38.0 minutes
+
+Date: 2025-01-30
+Entry: 1:30PM CT @ 6070.23
+Exit: 2:30PM CT @ 6083.52
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.29 points ($66.45)
+Duration: 47.0 minutes
+
+Date: 2025-01-30
+Entry: 2:30PM CT @ 6083.97
+Exit: 3:00PM CT @ 6070.68
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.29 points ($-66.45)
+Duration: 8.0 minutes
+
+Date: 2025-01-31
+Entry: 8:31AM CT @ 6098.42
+Exit: 9:30AM CT @ 6112.62
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -14.20 points ($-71.00)
+Duration: 59.0 minutes
+
+Date: 2025-01-31
+Entry: 9:00AM CT @ 6102.27
+Exit: 10:00AM CT @ 6117.20
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -14.93 points ($-74.65)
+Duration: 60.0 minutes
+
+Date: 2025-01-31
+Entry: 9:30AM CT @ 6110.90
+Exit: 11:30AM CT @ 6116.48
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -5.58 points ($-27.90)
+Duration: 120.0 minutes
+
+Date: 2025-01-31
+Entry: 10:30AM CT @ 6111.25
+Exit: 12:30PM CT @ 6094.86
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 16.39 points ($81.95)
+Duration: 115.0 minutes
+
+Date: 2025-01-31
+Entry: 11:30AM CT @ 6116.26
+Exit: 1:30PM CT @ 6094.40
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -21.86 points ($-109.30)
+Duration: 55.0 minutes
+
+Date: 2025-01-31
+Entry: 1:30PM CT @ 6065.44
+Exit: 2:30PM CT @ 6059.37
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -6.07 points ($-30.35)
+Duration: 7.0 minutes
+
+Date: 2025-01-31
+Entry: 2:30PM CT @ 6036.71
+Exit: 3:00PM CT @ 6040.46
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 3.75 points ($18.75)
+Duration: 30.0 minutes
+
+Date: 2025-02-03
+Entry: 8:31AM CT @ 5944.53
+Exit: 9:30AM CT @ 5929.43
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 15.10 points ($75.50)
+Duration: 45.0 minutes
+
+Date: 2025-02-03
+Entry: 9:00AM CT @ 5938.94
+Exit: 10:00AM CT @ 5926.25
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.69 points ($63.45)
+Duration: 18.0 minutes
+
+Date: 2025-02-03
+Entry: 9:30AM CT @ 5982.82
+Exit: 11:30AM CT @ 5996.11
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.29 points ($66.45)
+Duration: 11.0 minutes
+
+Date: 2025-02-03
+Entry: 11:30AM CT @ 5993.92
+Exit: 1:30PM CT @ 6009.02
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -15.10 points ($-75.50)
+Duration: 90.0 minutes
+
+Date: 2025-02-03
+Entry: 1:30PM CT @ 6014.67
+Exit: 2:30PM CT @ 6020.71
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -6.04 points ($-30.20)
+Duration: 15.0 minutes
+
+Date: 2025-02-03
+Entry: 12:30PM CT @ 5996.83
+Exit: 3:00PM CT @ 6017.97
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.14 points ($105.70)
+Duration: 45.0 minutes
+
+Date: 2025-02-04
+Entry: 8:31AM CT @ 5994.00
+Exit: 9:30AM CT @ 5999.99
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -5.99 points ($-29.95)
+Duration: 7.0 minutes
+
+Date: 2025-02-04
+Entry: 9:00AM CT @ 6009.53
+Exit: 10:00AM CT @ 6019.72
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -10.19 points ($-50.95)
+Duration: 7.0 minutes
+
+Date: 2025-02-04
+Entry: 9:30AM CT @ 6025.00
+Exit: 11:30AM CT @ 6017.90
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 7.10 points ($35.50)
+Duration: 120.0 minutes
+
+Date: 2025-02-04
+Entry: 10:30AM CT @ 6039.48
+Exit: 12:30PM CT @ 6031.89
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 7.59 points ($37.95)
+Duration: 120.0 minutes
+
+Date: 2025-02-04
+Entry: 11:30AM CT @ 6017.03
+Exit: 1:30PM CT @ 6040.41
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -23.38 points ($-116.90)
+Duration: 120.0 minutes
+
+Date: 2025-02-04
+Entry: 1:30PM CT @ 6038.35
+Exit: 2:30PM CT @ 6031.53
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 6.82 points ($34.10)
+Duration: 60.0 minutes
+
+Date: 2025-02-04
+Entry: 2:30PM CT @ 6030.51
+Exit: 3:00PM CT @ 6037.85
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -7.34 points ($-36.70)
+Duration: 30.0 minutes
+
+Date: 2025-02-05
+Entry: 8:31AM CT @ 6025.51
+Exit: 9:30AM CT @ 6012.23
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.28 points ($-66.40)
+Duration: 32.0 minutes
+
+Date: 2025-02-05
+Entry: 9:00AM CT @ 6021.48
+Exit: 10:00AM CT @ 6025.00
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -3.52 points ($-17.60)
+Duration: 60.0 minutes
+
+Date: 2025-02-05
+Entry: 9:30AM CT @ 6026.41
+Exit: 11:30AM CT @ 6040.90
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.49 points ($72.45)
+Duration: 79.0 minutes
+
+Date: 2025-02-05
+Entry: 10:30AM CT @ 6032.27
+Exit: 12:30PM CT @ 6045.55
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.28 points ($66.40)
+Duration: 21.0 minutes
+
+Date: 2025-02-05
+Entry: 12:30PM CT @ 6044.98
+Exit: 3:00PM CT @ 6061.48
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 16.50 points ($82.50)
+Duration: 150.0 minutes
+
+Date: 2025-02-06
+Entry: 8:31AM CT @ 6074.27
+Exit: 9:30AM CT @ 6068.36
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -5.91 points ($-29.55)
+Duration: 59.0 minutes
+
+Date: 2025-02-06
+Entry: 9:00AM CT @ 6073.03
+Exit: 10:00AM CT @ 6064.54
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -8.49 points ($-42.45)
+Duration: 47.0 minutes
+
+Date: 2025-02-06
+Entry: 9:30AM CT @ 6069.09
+Exit: 11:30AM CT @ 6070.41
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 1.32 points ($6.60)
+Duration: 120.0 minutes
+
+Date: 2025-02-06
+Entry: 10:30AM CT @ 6075.38
+Exit: 12:30PM CT @ 6075.61
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 0.23 points ($1.15)
+Duration: 120.0 minutes
+
+Date: 2025-02-06
+Entry: 11:30AM CT @ 6071.00
+Exit: 1:30PM CT @ 6060.96
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -10.04 points ($-50.20)
+Duration: 120.0 minutes
+
+Date: 2025-02-06
+Entry: 12:30PM CT @ 6075.21
+Exit: 3:00PM CT @ 6062.48
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.73 points ($-63.65)
+Duration: 60.0 minutes
+
+Date: 2025-02-07
+Entry: 8:31AM CT @ 6087.48
+Exit: 9:30AM CT @ 6092.35
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -4.87 points ($-24.35)
+Duration: 0.0 minutes
+
+Date: 2025-02-07
+Entry: 9:00AM CT @ 6098.76
+Exit: 10:00AM CT @ 6093.89
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -4.87 points ($-24.35)
+Duration: 0.0 minutes
+
+Date: 2025-02-07
+Entry: 9:30AM CT @ 6066.18
+Exit: 11:30AM CT @ 6033.33
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -32.85 points ($-164.25)
+Duration: 82.0 minutes
+
+Date: 2025-02-07
+Entry: 10:30AM CT @ 6039.94
+Exit: 12:30PM CT @ 6054.54
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.60 points ($73.00)
+Duration: 103.0 minutes
+
+Date: 2025-02-07
+Entry: 11:30AM CT @ 6036.38
+Exit: 1:30PM CT @ 6049.76
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.38 points ($66.90)
+Duration: 35.0 minutes
+
+Date: 2025-02-07
+Entry: 1:30PM CT @ 6025.46
+Exit: 2:30PM CT @ 6025.20
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -0.26 points ($-1.30)
+Duration: 60.0 minutes
+
+Date: 2025-02-07
+Entry: 2:30PM CT @ 6022.72
+Exit: 3:00PM CT @ 6025.99
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -3.27 points ($-16.35)
+Duration: 30.0 minutes
+
+Date: 2025-02-10
+Entry: 8:31AM CT @ 6055.62
+Exit: 9:30AM CT @ 6067.71
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 12.09 points ($60.45)
+Duration: 59.0 minutes
+
+Date: 2025-02-10
+Entry: 9:00AM CT @ 6054.02
+Exit: 10:00AM CT @ 6069.43
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 15.41 points ($77.05)
+Duration: 60.0 minutes
+
+Date: 2025-02-10
+Entry: 9:30AM CT @ 6065.92
+Exit: 11:30AM CT @ 6056.28
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -9.64 points ($-48.20)
+Duration: 98.0 minutes
+
+Date: 2025-02-10
+Entry: 10:30AM CT @ 6061.56
+Exit: 12:30PM CT @ 6066.01
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 4.45 points ($22.25)
+Duration: 120.0 minutes
+
+Date: 2025-02-10
+Entry: 11:30AM CT @ 6055.04
+Exit: 1:30PM CT @ 6070.68
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 15.64 points ($78.20)
+Duration: 120.0 minutes
+
+Date: 2025-02-10
+Entry: 2:30PM CT @ 6067.46
+Exit: 3:00PM CT @ 6066.46
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 1.00 points ($5.00)
+Duration: 30.0 minutes
+
+Date: 2025-02-11
+Entry: 8:31AM CT @ 6049.04
+Exit: 9:30AM CT @ 6059.84
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -10.80 points ($-54.00)
+Duration: 59.0 minutes
+
+Date: 2025-02-11
+Entry: 9:00AM CT @ 6052.47
+Exit: 10:00AM CT @ 6065.21
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -12.74 points ($-63.70)
+Duration: 45.0 minutes
+
+Date: 2025-02-11
+Entry: 9:30AM CT @ 6059.84
+Exit: 11:30AM CT @ 6061.86
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 2.02 points ($10.10)
+Duration: 120.0 minutes
+
+Date: 2025-02-11
+Entry: 10:30AM CT @ 6064.17
+Exit: 12:30PM CT @ 6051.43
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.74 points ($-63.70)
+Duration: 38.0 minutes
+
+Date: 2025-02-11
+Entry: 11:30AM CT @ 6061.61
+Exit: 1:30PM CT @ 6066.04
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -4.43 points ($-22.15)
+Duration: 120.0 minutes
+
+Date: 2025-02-11
+Entry: 1:30PM CT @ 6065.19
+Exit: 2:30PM CT @ 6069.96
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 4.77 points ($23.85)
+Duration: 60.0 minutes
+
+Date: 2025-02-11
+Entry: 12:30PM CT @ 6058.06
+Exit: 3:00PM CT @ 6068.51
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 10.45 points ($52.25)
+Duration: 150.0 minutes
+
+Date: 2025-02-12
+Entry: 8:31AM CT @ 6006.49
+Exit: 9:30AM CT @ 6018.63
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -12.14 points ($-60.70)
+Duration: 8.0 minutes
+
+Date: 2025-02-12
+Entry: 9:30AM CT @ 6032.59
+Exit: 11:30AM CT @ 6045.94
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.35 points ($66.75)
+Duration: 8.0 minutes
+
+Date: 2025-02-12
+Entry: 10:30AM CT @ 6023.93
+Exit: 12:30PM CT @ 6037.28
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.35 points ($66.75)
+Duration: 14.0 minutes
+
+Date: 2025-02-12
+Entry: 11:30AM CT @ 6056.13
+Exit: 1:30PM CT @ 6048.38
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 7.75 points ($38.75)
+Duration: 120.0 minutes
+
+Date: 2025-02-12
+Entry: 12:30PM CT @ 6053.11
+Exit: 3:00PM CT @ 6051.94
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -1.17 points ($-5.85)
+Duration: 150.0 minutes
+
+Date: 2025-02-13
+Entry: 8:31AM CT @ 6064.72
+Exit: 9:30AM CT @ 6078.92
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 14.20 points ($71.00)
+Duration: 59.0 minutes
+
+Date: 2025-02-13
+Entry: 9:00AM CT @ 6067.45
+Exit: 10:00AM CT @ 6086.82
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -19.37 points ($-96.85)
+Duration: 39.0 minutes
+
+Date: 2025-02-13
+Entry: 9:30AM CT @ 6078.89
+Exit: 11:30AM CT @ 6081.15
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -2.26 points ($-11.30)
+Duration: 120.0 minutes
+
+Date: 2025-02-13
+Entry: 10:30AM CT @ 6085.01
+Exit: 12:30PM CT @ 6080.40
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 4.61 points ($23.05)
+Duration: 120.0 minutes
+
+Date: 2025-02-13
+Entry: 11:30AM CT @ 6082.92
+Exit: 1:30PM CT @ 6096.84
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.92 points ($69.60)
+Duration: 98.0 minutes
+
+Date: 2025-02-13
+Entry: 1:30PM CT @ 6100.12
+Exit: 2:30PM CT @ 6113.43
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.31 points ($66.55)
+Duration: 48.0 minutes
+
+Date: 2025-02-13
+Entry: 2:30PM CT @ 6112.89
+Exit: 3:00PM CT @ 6115.06
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 2.17 points ($10.85)
+Duration: 30.0 minutes
+
+Date: 2025-02-14
+Entry: 8:31AM CT @ 6120.66
+Exit: 9:30AM CT @ 6118.52
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -2.14 points ($-10.70)
+Duration: 59.0 minutes
+
+Date: 2025-02-14
+Entry: 9:00AM CT @ 6120.86
+Exit: 10:00AM CT @ 6120.61
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 0.25 points ($1.25)
+Duration: 60.0 minutes
+
+Date: 2025-02-14
+Entry: 9:30AM CT @ 6119.43
+Exit: 11:30AM CT @ 6110.25
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 9.18 points ($45.90)
+Duration: 120.0 minutes
+
+Date: 2025-02-14
+Entry: 10:30AM CT @ 6117.07
+Exit: 12:30PM CT @ 6117.36
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 0.29 points ($1.45)
+Duration: 120.0 minutes
+
+Date: 2025-02-14
+Entry: 11:30AM CT @ 6109.56
+Exit: 1:30PM CT @ 6117.46
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 7.90 points ($39.50)
+Duration: 120.0 minutes
+
+Date: 2025-02-14
+Entry: 12:30PM CT @ 6115.76
+Exit: 3:00PM CT @ 6114.59
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -1.17 points ($-5.85)
+Duration: 150.0 minutes
+
+Date: 2025-02-18
+Entry: 8:31AM CT @ 6123.14
+Exit: 9:30AM CT @ 6110.30
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.84 points ($64.20)
+Duration: 30.0 minutes
+
+Date: 2025-02-18
+Entry: 9:30AM CT @ 6111.26
+Exit: 11:30AM CT @ 6117.31
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 6.05 points ($30.25)
+Duration: 120.0 minutes
+
+Date: 2025-02-18
+Entry: 11:30AM CT @ 6115.86
+Exit: 1:30PM CT @ 6101.80
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 14.06 points ($70.30)
+Duration: 109.0 minutes
+
+Date: 2025-02-18
+Entry: 12:30PM CT @ 6114.06
+Exit: 3:00PM CT @ 6128.74
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -14.68 points ($-73.40)
+Duration: 149.0 minutes
+
+Date: 2025-02-19
+Entry: 8:31AM CT @ 6115.73
+Exit: 9:30AM CT @ 6119.73
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -4.00 points ($-20.00)
+Duration: 59.0 minutes
+
+Date: 2025-02-19
+Entry: 9:00AM CT @ 6115.35
+Exit: 10:00AM CT @ 6118.80
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -3.45 points ($-17.25)
+Duration: 60.0 minutes
+
+Date: 2025-02-19
+Entry: 9:30AM CT @ 6116.88
+Exit: 11:30AM CT @ 6126.13
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -9.25 points ($-46.25)
+Duration: 120.0 minutes
+
+Date: 2025-02-19
+Entry: 10:30AM CT @ 6127.60
+Exit: 12:30PM CT @ 6134.58
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 6.98 points ($34.90)
+Duration: 120.0 minutes
+
+Date: 2025-02-19
+Entry: 11:30AM CT @ 6126.11
+Exit: 1:30PM CT @ 6124.27
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -1.84 points ($-9.20)
+Duration: 42.0 minutes
+
+Date: 2025-02-19
+Entry: 1:30PM CT @ 6143.52
+Exit: 2:30PM CT @ 6136.16
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -7.36 points ($-36.80)
+Duration: 58.0 minutes
+
+Date: 2025-02-19
+Entry: 12:30PM CT @ 6132.06
+Exit: 3:00PM CT @ 6146.77
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.71 points ($73.55)
+Duration: 81.0 minutes
+
+Date: 2025-02-20
+Entry: 8:31AM CT @ 6130.60
+Exit: 9:30AM CT @ 6117.08
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 13.52 points ($67.60)
+Duration: 20.0 minutes
+
+Date: 2025-02-20
+Entry: 9:00AM CT @ 6097.74
+Exit: 10:00AM CT @ 6092.10
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 5.64 points ($28.20)
+Duration: 60.0 minutes
+
+Date: 2025-02-20
+Entry: 9:30AM CT @ 6105.90
+Exit: 11:30AM CT @ 6094.84
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -11.06 points ($-55.30)
+Duration: 17.0 minutes
+
+Date: 2025-02-20
+Entry: 10:30AM CT @ 6096.71
+Exit: 12:30PM CT @ 6094.02
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -2.69 points ($-13.45)
+Duration: 120.0 minutes
+
+Date: 2025-02-20
+Entry: 11:30AM CT @ 6102.52
+Exit: 1:30PM CT @ 6106.33
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 3.81 points ($19.05)
+Duration: 120.0 minutes
+
+Date: 2025-02-20
+Entry: 12:30PM CT @ 6094.15
+Exit: 3:00PM CT @ 6117.62
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -23.47 points ($-117.35)
+Duration: 150.0 minutes
+
+Date: 2025-02-21
+Entry: 8:31AM CT @ 6111.24
+Exit: 9:30AM CT @ 6081.26
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 29.98 points ($149.90)
+Duration: 56.0 minutes
+
+Date: 2025-02-21
+Entry: 9:00AM CT @ 6098.30
+Exit: 10:00AM CT @ 6082.39
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.91 points ($-79.55)
+Duration: 27.0 minutes
+
+Date: 2025-02-21
+Entry: 9:30AM CT @ 6081.91
+Exit: 11:30AM CT @ 6069.91
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 12.00 points ($60.00)
+Duration: 120.0 minutes
+
+Date: 2025-02-21
+Entry: 10:30AM CT @ 6083.70
+Exit: 12:30PM CT @ 6070.85
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.85 points ($-64.25)
+Duration: 50.0 minutes
+
+Date: 2025-02-21
+Entry: 11:30AM CT @ 6071.10
+Exit: 1:30PM CT @ 6053.97
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -17.13 points ($-85.65)
+Duration: 26.0 minutes
+
+Date: 2025-02-21
+Entry: 1:30PM CT @ 6012.32
+Exit: 2:30PM CT @ 6021.93
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -9.61 points ($-48.05)
+Duration: 60.0 minutes
+
+Date: 2025-02-21
+Entry: 2:30PM CT @ 6019.33
+Exit: 3:00PM CT @ 6013.23
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 6.10 points ($30.50)
+Duration: 30.0 minutes
+
+Date: 2025-02-24
+Entry: 8:31AM CT @ 6034.72
+Exit: 9:30AM CT @ 5992.03
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -42.69 points ($-213.45)
+Duration: 32.0 minutes
+
+Date: 2025-02-24
+Entry: 9:00AM CT @ 5999.72
+Exit: 10:00AM CT @ 5979.88
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 19.84 points ($99.20)
+Duration: 7.0 minutes
+
+Date: 2025-02-24
+Entry: 9:30AM CT @ 5992.22
+Exit: 10:30AM CT @ 5984.40
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -7.82 points ($-39.10)
+Duration: 25.0 minutes
+
+Date: 2025-02-24
+Entry: 10:30AM CT @ 6014.95
+Exit: 12:30PM CT @ 6030.58
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.63 points ($78.15)
+Duration: 75.0 minutes
+
+Date: 2025-02-24
+Entry: 11:30AM CT @ 6025.06
+Exit: 1:30PM CT @ 6016.88
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 8.18 points ($40.90)
+Duration: 120.0 minutes
+
+Date: 2025-02-24
+Entry: 2:30PM CT @ 6004.59
+Exit: 3:00PM CT @ 6005.19
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -0.60 points ($-3.00)
+Duration: 0.0 minutes
+
+Date: 2025-02-25
+Entry: 8:31AM CT @ 5984.21
+Exit: 9:30AM CT @ 5957.88
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 26.33 points ($131.65)
+Duration: 22.0 minutes
+
+Date: 2025-02-25
+Entry: 9:00AM CT @ 5965.05
+Exit: 10:00AM CT @ 5940.52
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -24.53 points ($-122.65)
+Duration: 14.0 minutes
+
+Date: 2025-02-25
+Entry: 9:30AM CT @ 5920.78
+Exit: 11:30AM CT @ 5947.11
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 26.33 points ($131.65)
+Duration: 87.0 minutes
+
+Date: 2025-02-25
+Entry: 11:30AM CT @ 5949.78
+Exit: 12:30PM CT @ 5960.55
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -10.77 points ($-53.85)
+Duration: 29.0 minutes
+
+Date: 2025-02-25
+Entry: 11:30AM CT @ 5949.78
+Exit: 1:30PM CT @ 5946.59
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 3.19 points ($15.95)
+Duration: 120.0 minutes
+
+Date: 2025-02-25
+Entry: 1:30PM CT @ 5944.42
+Exit: 2:30PM CT @ 5959.98
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.56 points ($77.80)
+Duration: 9.0 minutes
+
+Date: 2025-02-25
+Entry: 2:30PM CT @ 5972.13
+Exit: 3:00PM CT @ 5964.35
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -7.78 points ($-38.90)
+Duration: 6.0 minutes
+
+Date: 2025-02-26
+Entry: 8:31AM CT @ 5966.95
+Exit: 9:30AM CT @ 5988.39
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.44 points ($107.20)
+Duration: 21.0 minutes
+
+Date: 2025-02-26
+Entry: 9:00AM CT @ 5990.62
+Exit: 10:00AM CT @ 6004.85
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 14.23 points ($71.15)
+Duration: 60.0 minutes
+
+Date: 2025-02-26
+Entry: 9:30AM CT @ 5992.54
+Exit: 11:30AM CT @ 6000.46
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 7.92 points ($39.60)
+Duration: 120.0 minutes
+
+Date: 2025-02-26
+Entry: 10:30AM CT @ 6000.23
+Exit: 12:30PM CT @ 5979.98
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 20.25 points ($101.25)
+Duration: 81.0 minutes
+
+Date: 2025-02-26
+Entry: 11:30AM CT @ 5999.94
+Exit: 1:30PM CT @ 5974.33
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -25.61 points ($-128.05)
+Duration: 22.0 minutes
+
+Date: 2025-02-26
+Entry: 1:30PM CT @ 5947.66
+Exit: 2:30PM CT @ 5951.23
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -3.57 points ($-17.85)
+Duration: 4.0 minutes
+
+Date: 2025-02-26
+Entry: 2:30PM CT @ 5949.74
+Exit: 3:00PM CT @ 5961.65
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.91 points ($59.55)
+Duration: 14.0 minutes
+
+Date: 2025-02-27
+Entry: 8:31AM CT @ 5986.83
+Exit: 9:30AM CT @ 5964.20
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 22.63 points ($113.15)
+Duration: 19.0 minutes
+
+Date: 2025-02-27
+Entry: 9:00AM CT @ 5937.02
+Exit: 10:00AM CT @ 5960.25
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 23.23 points ($116.15)
+Duration: 21.0 minutes
+
+Date: 2025-02-27
+Entry: 9:30AM CT @ 5968.13
+Exit: 10:30AM CT @ 5953.24
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -14.89 points ($-74.45)
+Duration: 26.0 minutes
+
+Date: 2025-02-27
+Entry: 10:30AM CT @ 5954.87
+Exit: 12:30PM CT @ 5960.23
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.36 points ($26.80)
+Duration: 120.0 minutes
+
+Date: 2025-02-27
+Entry: 11:30AM CT @ 5952.38
+Exit: 1:30PM CT @ 5938.09
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -14.29 points ($-71.45)
+Duration: 105.0 minutes
+
+Date: 2025-02-27
+Entry: 12:30PM CT @ 5959.45
+Exit: 3:00PM CT @ 5940.39
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -19.06 points ($-95.30)
+Duration: 44.0 minutes
+
+Date: 2025-02-28
+Entry: 8:31AM CT @ 5860.18
+Exit: 9:30AM CT @ 5883.63
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 23.45 points ($117.25)
+Duration: 42.0 minutes
+
+Date: 2025-02-28
+Entry: 9:00AM CT @ 5871.87
+Exit: 10:00AM CT @ 5898.56
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -26.69 points ($-133.45)
+Duration: 60.0 minutes
+
+Date: 2025-02-28
+Entry: 9:30AM CT @ 5896.90
+Exit: 11:30AM CT @ 5885.76
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -11.14 points ($-55.70)
+Duration: 13.0 minutes
+
+Date: 2025-02-28
+Entry: 10:30AM CT @ 5873.88
+Exit: 12:30PM CT @ 5846.92
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 26.96 points ($134.80)
+Duration: 106.0 minutes
+
+Date: 2025-02-28
+Entry: 11:30AM CT @ 5883.03
+Exit: 1:30PM CT @ 5860.17
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 22.86 points ($114.30)
+Duration: 18.0 minutes
+
+Date: 2025-02-28
+Entry: 1:30PM CT @ 5868.37
+Exit: 2:30PM CT @ 5889.47
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.10 points ($105.50)
+Duration: 18.0 minutes
+
+Date: 2025-02-28
+Entry: 2:30PM CT @ 5908.66
+Exit: 3:00PM CT @ 5922.73
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -14.07 points ($-70.35)
+Duration: 20.0 minutes
+
+Date: 2025-03-03
+Entry: 8:31AM CT @ 5969.04
+Exit: 9:30AM CT @ 5932.72
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -36.32 points ($-181.60)
+Duration: 29.0 minutes
+
+Date: 2025-03-03
+Entry: 9:00AM CT @ 5939.45
+Exit: 10:00AM CT @ 5958.50
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -19.05 points ($-95.25)
+Duration: 43.0 minutes
+
+Date: 2025-03-03
+Entry: 9:30AM CT @ 5952.87
+Exit: 11:30AM CT @ 5948.29
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 4.58 points ($22.90)
+Duration: 120.0 minutes
+
+Date: 2025-03-03
+Entry: 10:30AM CT @ 5937.15
+Exit: 12:30PM CT @ 5940.13
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -2.98 points ($-14.90)
+Duration: 20.0 minutes
+
+Date: 2025-03-03
+Entry: 11:30AM CT @ 5949.51
+Exit: 1:30PM CT @ 5892.35
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -57.16 points ($-285.80)
+Duration: 62.0 minutes
+
+Date: 2025-03-03
+Entry: 1:30PM CT @ 5896.50
+Exit: 2:30PM CT @ 5900.67
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -4.17 points ($-20.85)
+Duration: 0.0 minutes
+
+Date: 2025-03-03
+Entry: 2:30PM CT @ 5823.25
+Exit: 3:00PM CT @ 5849.72
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -26.47 points ($-132.35)
+Duration: 30.0 minutes
+
+Date: 2025-03-04
+Entry: 8:31AM CT @ 5802.99
+Exit: 9:30AM CT @ 5793.05
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -9.94 points ($-49.70)
+Duration: 1.0 minutes
+
+Date: 2025-03-04
+Entry: 9:00AM CT @ 5767.86
+Exit: 10:00AM CT @ 5748.56
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -19.30 points ($-96.50)
+Duration: 16.0 minutes
+
+Date: 2025-03-04
+Entry: 9:30AM CT @ 5756.40
+Exit: 11:30AM CT @ 5744.12
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.28 points ($-61.40)
+Duration: 38.0 minutes
+
+Date: 2025-03-04
+Entry: 10:30AM CT @ 5740.38
+Exit: 12:30PM CT @ 5762.02
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.64 points ($108.20)
+Duration: 14.0 minutes
+
+Date: 2025-03-04
+Entry: 11:30AM CT @ 5790.32
+Exit: 1:30PM CT @ 5778.62
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -11.70 points ($-58.50)
+Duration: 22.0 minutes
+
+Date: 2025-03-04
+Entry: 1:30PM CT @ 5826.29
+Exit: 2:30PM CT @ 5822.20
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -4.09 points ($-20.45)
+Duration: 1.0 minutes
+
+Date: 2025-03-04
+Entry: 2:30PM CT @ 5850.89
+Exit: 3:00PM CT @ 5828.08
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 22.81 points ($114.05)
+Duration: 2.0 minutes
+
+Date: 2025-03-05
+Entry: 8:31AM CT @ 5785.25
+Exit: 9:30AM CT @ 5801.43
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -16.18 points ($-80.90)
+Duration: 36.0 minutes
+
+Date: 2025-03-05
+Entry: 9:00AM CT @ 5769.08
+Exit: 10:00AM CT @ 5786.99
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 17.91 points ($89.55)
+Duration: 0.0 minutes
+
+Date: 2025-03-05
+Entry: 9:30AM CT @ 5770.83
+Exit: 11:30AM CT @ 5758.70
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.13 points ($-60.65)
+Duration: 41.0 minutes
+
+Date: 2025-03-05
+Entry: 10:30AM CT @ 5759.72
+Exit: 12:30PM CT @ 5749.32
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.40 points ($-52.00)
+Duration: 4.0 minutes
+
+Date: 2025-03-05
+Entry: 11:30AM CT @ 5798.51
+Exit: 1:30PM CT @ 5821.04
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -22.53 points ($-112.65)
+Duration: 36.0 minutes
+
+Date: 2025-03-05
+Entry: 1:30PM CT @ 5839.79
+Exit: 2:30PM CT @ 5854.24
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.45 points ($72.25)
+Duration: 33.0 minutes
+
+Date: 2025-03-05
+Entry: 2:30PM CT @ 5853.46
+Exit: 3:00PM CT @ 5842.52
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 10.94 points ($54.70)
+Duration: 30.0 minutes
+
+Date: 2025-03-06
+Entry: 8:31AM CT @ 5767.63
+Exit: 9:30AM CT @ 5760.03
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -7.60 points ($-38.00)
+Duration: 1.0 minutes
+
+Date: 2025-03-06
+Entry: 9:00AM CT @ 5755.20
+Exit: 10:00AM CT @ 5802.03
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -46.83 points ($-234.15)
+Duration: 60.0 minutes
+
+Date: 2025-03-06
+Entry: 9:30AM CT @ 5796.14
+Exit: 11:30AM CT @ 5763.42
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 32.72 points ($163.60)
+Duration: 85.0 minutes
+
+Date: 2025-03-06
+Entry: 10:30AM CT @ 5797.01
+Exit: 12:30PM CT @ 5775.39
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -21.62 points ($-108.10)
+Duration: 20.0 minutes
+
+Date: 2025-03-06
+Entry: 11:30AM CT @ 5736.72
+Exit: 1:30PM CT @ 5751.33
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -14.61 points ($-73.05)
+Duration: 51.0 minutes
+
+Date: 2025-03-06
+Entry: 1:30PM CT @ 5716.59
+Exit: 2:30PM CT @ 5731.20
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.61 points ($73.05)
+Duration: 12.0 minutes
+
+Date: 2025-03-06
+Entry: 2:30PM CT @ 5740.70
+Exit: 3:00PM CT @ 5728.43
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.27 points ($61.35)
+Duration: 12.0 minutes
+
+Date: 2025-03-07
+Entry: 8:31AM CT @ 5726.67
+Exit: 9:30AM CT @ 5767.41
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -40.74 points ($-203.70)
+Duration: 22.0 minutes
+
+Date: 2025-03-07
+Entry: 9:00AM CT @ 5749.20
+Exit: 10:00AM CT @ 5707.31
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -41.89 points ($-209.45)
+Duration: 35.0 minutes
+
+Date: 2025-03-07
+Entry: 9:30AM CT @ 5732.98
+Exit: 11:30AM CT @ 5714.62
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 18.36 points ($91.80)
+Duration: 2.0 minutes
+
+Date: 2025-03-07
+Entry: 10:30AM CT @ 5685.40
+Exit: 12:30PM CT @ 5704.91
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 19.51 points ($97.55)
+Duration: 67.0 minutes
+
+Date: 2025-03-07
+Entry: 11:30AM CT @ 5689.71
+Exit: 1:30PM CT @ 5716.68
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 26.97 points ($134.85)
+Duration: 13.0 minutes
+
+Date: 2025-03-07
+Entry: 1:30PM CT @ 5776.00
+Exit: 2:30PM CT @ 5758.21
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 17.79 points ($88.95)
+Duration: 30.0 minutes
+
+Date: 2025-03-07
+Entry: 2:30PM CT @ 5769.71
+Exit: 3:00PM CT @ 5753.64
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 16.07 points ($80.35)
+Duration: 8.0 minutes
+
+Date: 2025-03-10
+Entry: 8:31AM CT @ 5690.02
+Exit: 9:30AM CT @ 5663.46
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -26.56 points ($-132.80)
+Duration: 59.0 minutes
+
+Date: 2025-03-10
+Entry: 9:00AM CT @ 5681.37
+Exit: 10:00AM CT @ 5651.16
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -30.21 points ($-151.05)
+Duration: 60.0 minutes
+
+Date: 2025-03-10
+Entry: 9:30AM CT @ 5663.11
+Exit: 11:30AM CT @ 5649.08
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -14.03 points ($-70.15)
+Duration: 120.0 minutes
+
+Date: 2025-03-10
+Entry: 10:30AM CT @ 5659.11
+Exit: 12:30PM CT @ 5629.10
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 30.01 points ($150.05)
+Duration: 94.0 minutes
+
+Date: 2025-03-10
+Entry: 11:30AM CT @ 5645.34
+Exit: 1:30PM CT @ 5610.72
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 34.62 points ($173.10)
+Duration: 81.0 minutes
+
+Date: 2025-03-10
+Entry: 1:30PM CT @ 5605.91
+Exit: 2:30PM CT @ 5593.79
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.12 points ($60.60)
+Duration: 23.0 minutes
+
+Date: 2025-03-10
+Entry: 2:30PM CT @ 5605.24
+Exit: 3:00PM CT @ 5616.78
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.54 points ($-57.70)
+Duration: 2.0 minutes
+
+Date: 2025-03-11
+Entry: 8:31AM CT @ 5605.00
+Exit: 9:30AM CT @ 5573.86
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 31.14 points ($155.70)
+Duration: 59.0 minutes
+
+Date: 2025-03-11
+Entry: 9:00AM CT @ 5605.47
+Exit: 10:00AM CT @ 5615.01
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -9.54 points ($-47.70)
+Duration: 0.0 minutes
+
+Date: 2025-03-11
+Entry: 9:30AM CT @ 5567.35
+Exit: 11:30AM CT @ 5601.04
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -33.69 points ($-168.45)
+Duration: 70.0 minutes
+
+Date: 2025-03-11
+Entry: 10:30AM CT @ 5580.39
+Exit: 12:30PM CT @ 5603.97
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 23.58 points ($117.90)
+Duration: 11.0 minutes
+
+Date: 2025-03-11
+Entry: 11:30AM CT @ 5567.20
+Exit: 1:30PM CT @ 5560.46
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -6.74 points ($-33.70)
+Duration: 10.0 minutes
+
+Date: 2025-03-11
+Entry: 1:30PM CT @ 5592.65
+Exit: 2:30PM CT @ 5603.32
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -10.67 points ($-53.35)
+Duration: 13.0 minutes
+
+Date: 2025-03-11
+Entry: 2:30PM CT @ 5604.45
+Exit: 3:00PM CT @ 5589.85
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 14.60 points ($73.00)
+Duration: 21.0 minutes
+
+Date: 2025-03-12
+Entry: 8:31AM CT @ 5629.14
+Exit: 9:30AM CT @ 5614.10
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.04 points ($-75.20)
+Duration: 13.0 minutes
+
+Date: 2025-03-12
+Entry: 9:00AM CT @ 5603.84
+Exit: 10:00AM CT @ 5580.99
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 22.85 points ($114.25)
+Duration: 39.0 minutes
+
+Date: 2025-03-12
+Entry: 9:30AM CT @ 5599.22
+Exit: 11:30AM CT @ 5574.70
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 24.52 points ($122.60)
+Duration: 14.0 minutes
+
+Date: 2025-03-12
+Entry: 10:30AM CT @ 5577.50
+Exit: 12:30PM CT @ 5598.67
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.17 points ($105.85)
+Duration: 29.0 minutes
+
+Date: 2025-03-12
+Entry: 11:30AM CT @ 5611.12
+Exit: 1:30PM CT @ 5589.39
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 21.73 points ($108.65)
+Duration: 89.0 minutes
+
+Date: 2025-03-12
+Entry: 1:30PM CT @ 5610.30
+Exit: 2:30PM CT @ 5625.90
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.60 points ($78.00)
+Duration: 18.0 minutes
+
+Date: 2025-03-12
+Entry: 2:30PM CT @ 5605.01
+Exit: 3:00PM CT @ 5599.30
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 5.71 points ($28.55)
+Duration: 30.0 minutes
+
+Date: 2025-03-13
+Entry: 8:31AM CT @ 5585.12
+Exit: 9:30AM CT @ 5562.72
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 22.40 points ($112.00)
+Duration: 25.0 minutes
+
+Date: 2025-03-13
+Entry: 9:00AM CT @ 5557.67
+Exit: 10:00AM CT @ 5580.63
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 22.96 points ($114.80)
+Duration: 14.0 minutes
+
+Date: 2025-03-13
+Entry: 9:30AM CT @ 5579.21
+Exit: 11:30AM CT @ 5533.86
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -45.35 points ($-226.75)
+Duration: 70.0 minutes
+
+Date: 2025-03-13
+Entry: 10:30AM CT @ 5550.67
+Exit: 12:30PM CT @ 5524.91
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 25.76 points ($128.80)
+Duration: 77.0 minutes
+
+Date: 2025-03-13
+Entry: 11:30AM CT @ 5533.59
+Exit: 1:30PM CT @ 5511.75
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -21.84 points ($-109.20)
+Duration: 62.0 minutes
+
+Date: 2025-03-13
+Entry: 1:30PM CT @ 5537.35
+Exit: 2:30PM CT @ 5518.49
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -18.86 points ($-94.30)
+Duration: 60.0 minutes
+
+Date: 2025-03-13
+Entry: 2:30PM CT @ 5522.36
+Exit: 3:00PM CT @ 5521.51
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 0.85 points ($4.25)
+Duration: 30.0 minutes
+
+Date: 2025-03-14
+Entry: 8:31AM CT @ 5571.63
+Exit: 9:30AM CT @ 5592.06
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -20.43 points ($-102.15)
+Duration: 14.0 minutes
+
+Date: 2025-03-14
+Entry: 9:00AM CT @ 5590.24
+Exit: 10:00AM CT @ 5606.80
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 16.56 points ($82.80)
+Duration: 59.0 minutes
+
+Date: 2025-03-14
+Entry: 9:30AM CT @ 5575.99
+Exit: 11:30AM CT @ 5605.81
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 29.82 points ($149.10)
+Duration: 29.0 minutes
+
+Date: 2025-03-14
+Entry: 10:30AM CT @ 5617.38
+Exit: 12:30PM CT @ 5623.25
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.87 points ($29.35)
+Duration: 120.0 minutes
+
+Date: 2025-03-14
+Entry: 11:30AM CT @ 5609.28
+Exit: 1:30PM CT @ 5630.26
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 20.98 points ($104.90)
+Duration: 31.0 minutes
+
+Date: 2025-03-14
+Entry: 1:30PM CT @ 5613.83
+Exit: 2:30PM CT @ 5630.39
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 16.56 points ($82.80)
+Duration: 17.0 minutes
+
+Date: 2025-03-14
+Entry: 2:30PM CT @ 5625.25
+Exit: 3:00PM CT @ 5636.29
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.04 points ($-55.20)
+Duration: 24.0 minutes
+
+Date: 2025-03-17
+Entry: 8:31AM CT @ 5631.87
+Exit: 9:30AM CT @ 5643.15
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.28 points ($-56.40)
+Duration: 1.0 minutes
+
+Date: 2025-03-17
+Entry: 9:00AM CT @ 5663.06
+Exit: 10:00AM CT @ 5651.71
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -11.35 points ($-56.75)
+Duration: 60.0 minutes
+
+Date: 2025-03-17
+Entry: 9:30AM CT @ 5652.50
+Exit: 11:30AM CT @ 5644.97
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 7.53 points ($37.65)
+Duration: 120.0 minutes
+
+Date: 2025-03-17
+Entry: 10:30AM CT @ 5648.54
+Exit: 12:30PM CT @ 5664.33
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.79 points ($78.95)
+Duration: 115.0 minutes
+
+Date: 2025-03-17
+Entry: 11:30AM CT @ 5644.96
+Exit: 1:30PM CT @ 5666.95
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.99 points ($109.95)
+Duration: 64.0 minutes
+
+Date: 2025-03-17
+Entry: 1:30PM CT @ 5693.63
+Exit: 2:30PM CT @ 5698.73
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.10 points ($25.50)
+Duration: 60.0 minutes
+
+Date: 2025-03-17
+Entry: 12:30PM CT @ 5664.37
+Exit: 3:00PM CT @ 5679.03
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -14.66 points ($-73.30)
+Duration: 23.0 minutes
+
+Date: 2025-03-18
+Entry: 8:31AM CT @ 5648.97
+Exit: 9:30AM CT @ 5613.78
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 35.19 points ($175.95)
+Duration: 29.0 minutes
+
+Date: 2025-03-18
+Entry: 9:00AM CT @ 5614.00
+Exit: 10:00AM CT @ 5607.99
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 6.01 points ($30.05)
+Duration: 60.0 minutes
+
+Date: 2025-03-18
+Entry: 9:30AM CT @ 5618.94
+Exit: 11:30AM CT @ 5619.95
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -1.01 points ($-5.05)
+Duration: 120.0 minutes
+
+Date: 2025-03-18
+Entry: 10:30AM CT @ 5606.60
+Exit: 12:30PM CT @ 5608.95
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -2.35 points ($-11.75)
+Duration: 120.0 minutes
+
+Date: 2025-03-18
+Entry: 11:30AM CT @ 5622.02
+Exit: 1:30PM CT @ 5605.56
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 16.46 points ($82.30)
+Duration: 18.0 minutes
+
+Date: 2025-03-18
+Entry: 1:30PM CT @ 5611.41
+Exit: 2:30PM CT @ 5624.46
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.05 points ($65.25)
+Duration: 21.0 minutes
+
+Date: 2025-03-18
+Entry: 2:30PM CT @ 5617.38
+Exit: 3:00PM CT @ 5610.00
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -7.38 points ($-36.90)
+Duration: 18.0 minutes
+
+Date: 2025-03-19
+Entry: 8:31AM CT @ 5635.79
+Exit: 9:30AM CT @ 5655.44
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 19.65 points ($98.25)
+Duration: 35.0 minutes
+
+Date: 2025-03-19
+Entry: 9:00AM CT @ 5646.45
+Exit: 10:00AM CT @ 5642.37
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 4.08 points ($20.40)
+Duration: 60.0 minutes
+
+Date: 2025-03-19
+Entry: 9:30AM CT @ 5651.65
+Exit: 11:30AM CT @ 5647.72
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -3.93 points ($-19.65)
+Duration: 11.0 minutes
+
+Date: 2025-03-19
+Entry: 10:30AM CT @ 5652.31
+Exit: 12:30PM CT @ 5665.79
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.48 points ($67.40)
+Duration: 22.0 minutes
+
+Date: 2025-03-19
+Entry: 11:30AM CT @ 5662.11
+Exit: 1:30PM CT @ 5650.88
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 11.23 points ($56.15)
+Duration: 37.0 minutes
+
+Date: 2025-03-19
+Entry: 1:30PM CT @ 5652.26
+Exit: 2:30PM CT @ 5672.47
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 20.21 points ($101.05)
+Duration: 14.0 minutes
+
+Date: 2025-03-19
+Entry: 2:30PM CT @ 5678.09
+Exit: 3:00PM CT @ 5689.32
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.23 points ($-56.15)
+Duration: 8.0 minutes
+
+Date: 2025-03-20
+Entry: 8:31AM CT @ 5634.74
+Exit: 9:30AM CT @ 5653.47
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 18.73 points ($93.65)
+Duration: 4.0 minutes
+
+Date: 2025-03-20
+Entry: 9:00AM CT @ 5672.89
+Exit: 10:00AM CT @ 5708.08
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 35.19 points ($175.95)
+Duration: 42.0 minutes
+
+Date: 2025-03-20
+Entry: 9:30AM CT @ 5701.29
+Exit: 11:30AM CT @ 5678.59
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -22.70 points ($-113.50)
+Duration: 114.0 minutes
+
+Date: 2025-03-20
+Entry: 10:30AM CT @ 5695.45
+Exit: 12:30PM CT @ 5676.15
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 19.30 points ($96.50)
+Duration: 55.0 minutes
+
+Date: 2025-03-20
+Entry: 11:30AM CT @ 5667.36
+Exit: 1:30PM CT @ 5650.90
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 16.46 points ($82.30)
+Duration: 119.0 minutes
+
+Date: 2025-03-20
+Entry: 1:30PM CT @ 5647.13
+Exit: 2:30PM CT @ 5659.62
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 12.49 points ($62.45)
+Duration: 22.0 minutes
+
+Date: 2025-03-20
+Entry: 2:30PM CT @ 5652.27
+Exit: 3:00PM CT @ 5669.30
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 17.03 points ($85.15)
+Duration: 17.0 minutes
+
+Date: 2025-03-21
+Entry: 8:31AM CT @ 5623.03
+Exit: 9:30AM CT @ 5622.27
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -0.76 points ($-3.80)
+Duration: 59.0 minutes
+
+Date: 2025-03-21
+Entry: 9:00AM CT @ 5621.22
+Exit: 10:00AM CT @ 5606.50
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -14.72 points ($-73.60)
+Duration: 11.0 minutes
+
+Date: 2025-03-21
+Entry: 9:30AM CT @ 5621.73
+Exit: 11:30AM CT @ 5636.45
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -14.72 points ($-73.60)
+Duration: 29.0 minutes
+
+Date: 2025-03-21
+Entry: 10:30AM CT @ 5620.88
+Exit: 12:30PM CT @ 5642.40
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.52 points ($107.60)
+Duration: 48.0 minutes
+
+Date: 2025-03-21
+Entry: 11:30AM CT @ 5646.81
+Exit: 1:30PM CT @ 5658.14
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.33 points ($-56.65)
+Duration: 28.0 minutes
+
+Date: 2025-03-21
+Entry: 1:30PM CT @ 5643.59
+Exit: 2:30PM CT @ 5641.53
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -2.06 points ($-10.30)
+Duration: 60.0 minutes
+
+Date: 2025-03-21
+Entry: 2:30PM CT @ 5642.46
+Exit: 3:00PM CT @ 5653.79
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.33 points ($56.65)
+Duration: 23.0 minutes
+
+Date: 2025-03-24
+Entry: 8:31AM CT @ 5726.21
+Exit: 9:30AM CT @ 5737.55
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.34 points ($-56.70)
+Duration: 6.0 minutes
+
+Date: 2025-03-24
+Entry: 9:00AM CT @ 5750.60
+Exit: 10:00AM CT @ 5757.84
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 7.24 points ($36.20)
+Duration: 60.0 minutes
+
+Date: 2025-03-24
+Entry: 9:30AM CT @ 5754.15
+Exit: 11:30AM CT @ 5755.13
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -0.98 points ($-4.90)
+Duration: 120.0 minutes
+
+Date: 2025-03-24
+Entry: 10:30AM CT @ 5759.72
+Exit: 12:30PM CT @ 5754.49
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -5.23 points ($-26.15)
+Duration: 120.0 minutes
+
+Date: 2025-03-24
+Entry: 11:30AM CT @ 5755.79
+Exit: 1:30PM CT @ 5746.05
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -9.74 points ($-48.70)
+Duration: 120.0 minutes
+
+Date: 2025-03-24
+Entry: 1:30PM CT @ 5746.51
+Exit: 2:30PM CT @ 5761.81
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.30 points ($76.50)
+Duration: 35.0 minutes
+
+Date: 2025-03-24
+Entry: 2:30PM CT @ 5762.01
+Exit: 3:00PM CT @ 5767.56
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.55 points ($27.75)
+Duration: 30.0 minutes
+
+Date: 2025-03-25
+Entry: 8:31AM CT @ 5778.52
+Exit: 9:30AM CT @ 5766.41
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.11 points ($60.55)
+Duration: 17.0 minutes
+
+Date: 2025-03-25
+Entry: 9:00AM CT @ 5770.58
+Exit: 10:00AM CT @ 5782.77
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -12.19 points ($-60.95)
+Duration: 60.0 minutes
+
+Date: 2025-03-25
+Entry: 9:30AM CT @ 5781.37
+Exit: 11:30AM CT @ 5766.58
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 14.79 points ($73.95)
+Duration: 120.0 minutes
+
+Date: 2025-03-25
+Entry: 10:30AM CT @ 5780.39
+Exit: 12:30PM CT @ 5766.35
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -14.04 points ($-70.20)
+Duration: 120.0 minutes
+
+Date: 2025-03-25
+Entry: 11:30AM CT @ 5767.92
+Exit: 1:30PM CT @ 5773.69
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -5.77 points ($-28.85)
+Duration: 31.0 minutes
+
+Date: 2025-03-25
+Entry: 1:30PM CT @ 5766.64
+Exit: 2:30PM CT @ 5766.17
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -0.47 points ($-2.35)
+Duration: 60.0 minutes
+
+Date: 2025-03-25
+Entry: 2:30PM CT @ 5764.40
+Exit: 3:00PM CT @ 5773.05
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -8.65 points ($-43.25)
+Duration: 16.0 minutes
+
+Date: 2025-03-26
+Entry: 8:31AM CT @ 5774.12
+Exit: 9:30AM CT @ 5755.07
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 19.05 points ($95.25)
+Duration: 59.0 minutes
+
+Date: 2025-03-26
+Entry: 9:00AM CT @ 5758.76
+Exit: 10:00AM CT @ 5748.94
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -9.82 points ($-49.10)
+Duration: 22.0 minutes
+
+Date: 2025-03-26
+Entry: 9:30AM CT @ 5755.79
+Exit: 11:30AM CT @ 5738.46
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -17.33 points ($-86.65)
+Duration: 80.0 minutes
+
+Date: 2025-03-26
+Entry: 10:30AM CT @ 5745.57
+Exit: 12:30PM CT @ 5725.93
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 19.64 points ($98.20)
+Duration: 33.0 minutes
+
+Date: 2025-03-26
+Entry: 11:30AM CT @ 5732.95
+Exit: 1:30PM CT @ 5709.27
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 23.68 points ($118.40)
+Duration: 61.0 minutes
+
+Date: 2025-03-26
+Entry: 1:30PM CT @ 5715.22
+Exit: 2:30PM CT @ 5707.71
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -7.51 points ($-37.55)
+Duration: 11.0 minutes
+
+Date: 2025-03-26
+Entry: 12:30PM CT @ 5712.20
+Exit: 3:00PM CT @ 5696.60
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.60 points ($-78.00)
+Duration: 78.0 minutes
+
+Date: 2025-03-27
+Entry: 8:31AM CT @ 5695.25
+Exit: 9:30AM CT @ 5710.10
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.85 points ($74.25)
+Duration: 29.0 minutes
+
+Date: 2025-03-27
+Entry: 9:00AM CT @ 5705.62
+Exit: 10:00AM CT @ 5713.62
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -8.00 points ($-40.00)
+Duration: 19.0 minutes
+
+Date: 2025-03-27
+Entry: 9:30AM CT @ 5717.79
+Exit: 11:30AM CT @ 5701.80
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.99 points ($-79.95)
+Duration: 79.0 minutes
+
+Date: 2025-03-27
+Entry: 10:30AM CT @ 5721.02
+Exit: 12:30PM CT @ 5694.18
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -26.84 points ($-134.20)
+Duration: 120.0 minutes
+
+Date: 2025-03-27
+Entry: 11:30AM CT @ 5709.02
+Exit: 1:30PM CT @ 5693.03
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.99 points ($-79.95)
+Duration: 26.0 minutes
+
+Date: 2025-03-27
+Entry: 2:30PM CT @ 5719.83
+Exit: 3:00PM CT @ 5700.41
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 19.42 points ($97.10)
+Duration: 21.0 minutes
+
+Date: 2025-03-28
+Entry: 8:31AM CT @ 5676.68
+Exit: 9:30AM CT @ 5635.69
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 40.99 points ($204.95)
+Duration: 41.0 minutes
+
+Date: 2025-03-28
+Entry: 9:00AM CT @ 5660.87
+Exit: 10:00AM CT @ 5643.22
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -17.65 points ($-88.25)
+Duration: 10.0 minutes
+
+Date: 2025-03-28
+Entry: 9:30AM CT @ 5616.95
+Exit: 11:30AM CT @ 5594.42
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 22.53 points ($112.65)
+Duration: 120.0 minutes
+
+Date: 2025-03-28
+Entry: 10:30AM CT @ 5610.99
+Exit: 12:30PM CT @ 5597.90
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.09 points ($-65.45)
+Duration: 46.0 minutes
+
+Date: 2025-03-28
+Entry: 11:30AM CT @ 5590.47
+Exit: 1:30PM CT @ 5581.54
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 8.93 points ($44.65)
+Duration: 120.0 minutes
+
+Date: 2025-03-28
+Entry: 1:30PM CT @ 5581.82
+Exit: 2:30PM CT @ 5578.45
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -3.37 points ($-16.85)
+Duration: 60.0 minutes
+
+Date: 2025-03-28
+Entry: 2:30PM CT @ 5579.05
+Exit: 3:00PM CT @ 5580.95
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 1.90 points ($9.50)
+Duration: 30.0 minutes
+
+Date: 2025-03-31
+Entry: 8:31AM CT @ 5521.27
+Exit: 9:30AM CT @ 5505.64
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.63 points ($-78.15)
+Duration: 9.0 minutes
+
+Date: 2025-03-31
+Entry: 9:00AM CT @ 5519.11
+Exit: 10:00AM CT @ 5530.27
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.16 points ($-55.80)
+Duration: 1.0 minutes
+
+Date: 2025-03-31
+Entry: 9:30AM CT @ 5516.25
+Exit: 11:30AM CT @ 5546.39
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 30.14 points ($150.70)
+Duration: 52.0 minutes
+
+Date: 2025-03-31
+Entry: 10:30AM CT @ 5546.75
+Exit: 12:30PM CT @ 5566.84
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 20.09 points ($100.45)
+Duration: 99.0 minutes
+
+Date: 2025-03-31
+Entry: 11:30AM CT @ 5566.19
+Exit: 1:30PM CT @ 5550.56
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.63 points ($-78.15)
+Duration: 77.0 minutes
+
+Date: 2025-03-31
+Entry: 1:30PM CT @ 5590.77
+Exit: 2:30PM CT @ 5605.84
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.07 points ($75.35)
+Duration: 42.0 minutes
+
+Date: 2025-03-31
+Entry: 12:30PM CT @ 5557.28
+Exit: 3:00PM CT @ 5576.81
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 19.53 points ($97.65)
+Duration: 39.0 minutes
+
+Date: 2025-04-01
+Entry: 8:31AM CT @ 5591.23
+Exit: 9:30AM CT @ 5563.73
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -27.50 points ($-137.50)
+Duration: 49.0 minutes
+
+Date: 2025-04-01
+Entry: 9:00AM CT @ 5593.34
+Exit: 10:00AM CT @ 5573.70
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 19.64 points ($98.20)
+Duration: 10.0 minutes
+
+Date: 2025-04-01
+Entry: 9:30AM CT @ 5574.03
+Exit: 11:30AM CT @ 5597.04
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 23.01 points ($115.05)
+Duration: 11.0 minutes
+
+Date: 2025-04-01
+Entry: 10:30AM CT @ 5630.47
+Exit: 12:30PM CT @ 5645.06
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.59 points ($72.95)
+Duration: 40.0 minutes
+
+Date: 2025-04-01
+Entry: 11:30AM CT @ 5629.77
+Exit: 1:30PM CT @ 5609.01
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -20.76 points ($-103.80)
+Duration: 90.0 minutes
+
+Date: 2025-04-01
+Entry: 1:30PM CT @ 5588.62
+Exit: 2:30PM CT @ 5602.65
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.03 points ($70.15)
+Duration: 35.0 minutes
+
+Date: 2025-04-01
+Entry: 2:30PM CT @ 5606.27
+Exit: 3:00PM CT @ 5621.42
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -15.15 points ($-75.75)
+Duration: 15.0 minutes
+
+Date: 2025-04-02
+Entry: 8:31AM CT @ 5573.72
+Exit: 9:30AM CT @ 5574.85
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -1.13 points ($-5.65)
+Duration: 0.0 minutes
+
+Date: 2025-04-02
+Entry: 9:00AM CT @ 5609.11
+Exit: 10:00AM CT @ 5632.21
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 23.10 points ($115.50)
+Duration: 31.0 minutes
+
+Date: 2025-04-02
+Entry: 9:30AM CT @ 5629.99
+Exit: 11:30AM CT @ 5654.78
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -24.79 points ($-123.95)
+Duration: 56.0 minutes
+
+Date: 2025-04-02
+Entry: 10:30AM CT @ 5655.21
+Exit: 12:30PM CT @ 5634.37
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -20.84 points ($-104.20)
+Duration: 21.0 minutes
+
+Date: 2025-04-02
+Entry: 11:30AM CT @ 5664.48
+Exit: 1:30PM CT @ 5684.76
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -20.28 points ($-101.40)
+Duration: 36.0 minutes
+
+Date: 2025-04-02
+Entry: 1:30PM CT @ 5633.59
+Exit: 2:30PM CT @ 5647.67
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.08 points ($70.40)
+Duration: 6.0 minutes
+
+Date: 2025-04-02
+Entry: 2:30PM CT @ 5653.17
+Exit: 3:00PM CT @ 5668.94
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.77 points ($78.85)
+Duration: 15.0 minutes
+
+Date: 2025-04-03
+Entry: 8:31AM CT @ 5489.03
+Exit: 9:30AM CT @ 5469.18
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 19.85 points ($99.25)
+Duration: 25.0 minutes
+
+Date: 2025-04-03
+Entry: 9:00AM CT @ 5469.93
+Exit: 10:00AM CT @ 5449.51
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 20.42 points ($102.10)
+Duration: 10.0 minutes
+
+Date: 2025-04-03
+Entry: 9:30AM CT @ 5451.23
+Exit: 11:30AM CT @ 5434.22
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -17.01 points ($-85.05)
+Duration: 15.0 minutes
+
+Date: 2025-04-03
+Entry: 10:30AM CT @ 5438.29
+Exit: 12:30PM CT @ 5465.51
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 27.22 points ($136.10)
+Duration: 35.0 minutes
+
+Date: 2025-04-03
+Entry: 11:30AM CT @ 5479.14
+Exit: 1:30PM CT @ 5450.22
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -28.92 points ($-144.60)
+Duration: 50.0 minutes
+
+Date: 2025-04-03
+Entry: 1:30PM CT @ 5427.83
+Exit: 2:30PM CT @ 5414.79
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.04 points ($-65.20)
+Duration: 47.0 minutes
+
+Date: 2025-04-03
+Entry: 2:30PM CT @ 5410.72
+Exit: 3:00PM CT @ 5405.62
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -5.10 points ($-25.50)
+Duration: 2.0 minutes
+
+Date: 2025-04-04
+Entry: 8:31AM CT @ 5267.47
+Exit: 9:30AM CT @ 5235.63
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 31.84 points ($159.20)
+Duration: 5.0 minutes
+
+Date: 2025-04-04
+Entry: 9:00AM CT @ 5249.71
+Exit: 10:00AM CT @ 5215.17
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 34.54 points ($172.70)
+Duration: 10.0 minutes
+
+Date: 2025-04-04
+Entry: 9:30AM CT @ 5180.88
+Exit: 11:30AM CT @ 5154.44
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 26.44 points ($132.20)
+Duration: 16.0 minutes
+
+Date: 2025-04-04
+Entry: 10:30AM CT @ 5182.64
+Exit: 12:30PM CT @ 5155.12
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -27.52 points ($-137.60)
+Duration: 47.0 minutes
+
+Date: 2025-04-04
+Entry: 11:30AM CT @ 5141.87
+Exit: 1:30PM CT @ 5120.82
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 21.05 points ($105.25)
+Duration: 42.0 minutes
+
+Date: 2025-04-04
+Entry: 1:30PM CT @ 5106.52
+Exit: 2:30PM CT @ 5094.11
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.41 points ($-62.05)
+Duration: 6.0 minutes
+
+Date: 2025-04-04
+Entry: 2:30PM CT @ 5123.62
+Exit: 3:00PM CT @ 5132.25
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -8.63 points ($-43.15)
+Duration: 1.0 minutes
+
+Date: 2025-04-07
+Entry: 8:31AM CT @ 4900.07
+Exit: 9:30AM CT @ 4852.88
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 47.19 points ($235.95)
+Duration: 11.0 minutes
+
+Date: 2025-04-07
+Entry: 9:00AM CT @ 4974.35
+Exit: 10:00AM CT @ 5009.36
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -35.01 points ($-175.05)
+Duration: 10.0 minutes
+
+Date: 2025-04-07
+Entry: 9:30AM CT @ 5000.91
+Exit: 11:30AM CT @ 5013.09
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -12.18 points ($-60.90)
+Duration: 1.0 minutes
+
+Date: 2025-04-07
+Entry: 10:30AM CT @ 4955.64
+Exit: 12:30PM CT @ 5063.07
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -107.43 points ($-537.15)
+Duration: 120.0 minutes
+
+Date: 2025-04-07
+Entry: 11:30AM CT @ 5012.99
+Exit: 1:30PM CT @ 4985.08
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -27.91 points ($-139.55)
+Duration: 16.0 minutes
+
+Date: 2025-04-07
+Entry: 1:30PM CT @ 5068.26
+Exit: 2:30PM CT @ 5082.97
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.71 points ($73.55)
+Duration: 5.0 minutes
+
+Date: 2025-04-07
+Entry: 2:30PM CT @ 5024.40
+Exit: 3:00PM CT @ 5048.25
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -23.85 points ($-119.25)
+Duration: 2.0 minutes
+
+Date: 2025-04-08
+Entry: 8:31AM CT @ 5233.75
+Exit: 9:30AM CT @ 5254.00
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -20.25 points ($-101.25)
+Duration: 32.0 minutes
+
+Date: 2025-04-08
+Entry: 9:00AM CT @ 5243.92
+Exit: 10:00AM CT @ 5256.07
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 12.15 points ($60.75)
+Duration: 5.0 minutes
+
+Date: 2025-04-08
+Entry: 9:30AM CT @ 5253.01
+Exit: 11:30AM CT @ 5208.46
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 44.55 points ($222.75)
+Duration: 27.0 minutes
+
+Date: 2025-04-08
+Entry: 10:30AM CT @ 5161.19
+Exit: 12:30PM CT @ 5179.41
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -18.22 points ($-91.10)
+Duration: 5.0 minutes
+
+Date: 2025-04-08
+Entry: 11:30AM CT @ 5157.18
+Exit: 1:30PM CT @ 5136.42
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 20.76 points ($103.80)
+Duration: 5.0 minutes
+
+Date: 2025-04-08
+Entry: 1:30PM CT @ 5042.14
+Exit: 2:30PM CT @ 5059.86
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -17.72 points ($-88.60)
+Duration: 0.0 minutes
+
+Date: 2025-04-08
+Entry: 2:30PM CT @ 4993.35
+Exit: 3:00PM CT @ 4981.20
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 12.15 points ($60.75)
+Duration: 1.0 minutes
+
+Date: 2025-04-09
+Entry: 8:31AM CT @ 4961.30
+Exit: 9:30AM CT @ 4969.27
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -7.97 points ($-39.85)
+Duration: 0.0 minutes
+
+Date: 2025-04-09
+Entry: 9:00AM CT @ 5015.69
+Exit: 10:00AM CT @ 5028.65
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -12.96 points ($-64.80)
+Duration: 0.0 minutes
+
+Date: 2025-04-09
+Entry: 9:30AM CT @ 5007.90
+Exit: 11:30AM CT @ 5026.34
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 18.44 points ($92.20)
+Duration: 2.0 minutes
+
+Date: 2025-04-09
+Entry: 10:30AM CT @ 4999.98
+Exit: 12:30PM CT @ 5092.66
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 92.68 points ($463.40)
+Duration: 109.0 minutes
+
+Date: 2025-04-09
+Entry: 11:30AM CT @ 5010.28
+Exit: 1:30PM CT @ 5097.98
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 87.70 points ($438.50)
+Duration: 49.0 minutes
+
+Date: 2025-04-09
+Entry: 1:30PM CT @ 5402.47
+Exit: 2:30PM CT @ 5391.01
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -11.46 points ($-57.30)
+Duration: 4.0 minutes
+
+Date: 2025-04-09
+Entry: 2:30PM CT @ 5423.78
+Exit: 3:00PM CT @ 5465.14
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -41.36 points ($-206.80)
+Duration: 20.0 minutes
+
+Date: 2025-04-10
+Entry: 8:31AM CT @ 5345.57
+Exit: 9:30AM CT @ 5321.56
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -24.01 points ($-120.05)
+Duration: 6.0 minutes
+
+Date: 2025-04-10
+Entry: 9:00AM CT @ 5308.53
+Exit: 10:00AM CT @ 5287.25
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 21.28 points ($106.40)
+Duration: 12.0 minutes
+
+Date: 2025-04-10
+Entry: 9:30AM CT @ 5299.36
+Exit: 11:30AM CT @ 5305.91
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -6.55 points ($-32.75)
+Duration: 0.0 minutes
+
+Date: 2025-04-10
+Entry: 10:30AM CT @ 5255.40
+Exit: 12:30PM CT @ 5237.94
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 17.46 points ($87.30)
+Duration: 14.0 minutes
+
+Date: 2025-04-10
+Entry: 11:30AM CT @ 5136.55
+Exit: 1:30PM CT @ 5172.02
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 35.47 points ($177.35)
+Duration: 2.0 minutes
+
+Date: 2025-04-10
+Entry: 1:30PM CT @ 5301.06
+Exit: 2:30PM CT @ 5271.05
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 30.01 points ($150.05)
+Duration: 24.0 minutes
+
+Date: 2025-04-10
+Entry: 2:30PM CT @ 5243.74
+Exit: 3:00PM CT @ 5233.37
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.37 points ($-51.85)
+Duration: 10.0 minutes
+
+Date: 2025-04-11
+Entry: 8:31AM CT @ 5260.53
+Exit: 9:30AM CT @ 5237.22
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 23.31 points ($116.55)
+Duration: 59.0 minutes
+
+Date: 2025-04-11
+Entry: 9:00AM CT @ 5282.90
+Exit: 10:00AM CT @ 5257.09
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 25.81 points ($129.05)
+Duration: 19.0 minutes
+
+Date: 2025-04-11
+Entry: 9:30AM CT @ 5224.90
+Exit: 11:30AM CT @ 5259.67
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 34.77 points ($173.85)
+Duration: 6.0 minutes
+
+Date: 2025-04-11
+Entry: 10:30AM CT @ 5248.05
+Exit: 12:30PM CT @ 5263.85
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -15.80 points ($-79.00)
+Duration: 8.0 minutes
+
+Date: 2025-04-11
+Entry: 11:30AM CT @ 5291.49
+Exit: 1:30PM CT @ 5322.57
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -31.08 points ($-155.40)
+Duration: 6.0 minutes
+
+Date: 2025-04-11
+Entry: 1:30PM CT @ 5348.83
+Exit: 2:30PM CT @ 5367.79
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 18.96 points ($94.80)
+Duration: 43.0 minutes
+
+Date: 2025-04-11
+Entry: 2:30PM CT @ 5365.18
+Exit: 3:00PM CT @ 5363.36
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 1.82 points ($9.10)
+Duration: 30.0 minutes
+
+Date: 2025-04-14
+Entry: 8:31AM CT @ 5455.86
+Exit: 9:30AM CT @ 5418.32
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 37.54 points ($187.70)
+Duration: 12.0 minutes
+
+Date: 2025-04-14
+Entry: 9:00AM CT @ 5424.00
+Exit: 10:00AM CT @ 5441.23
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -17.23 points ($-86.15)
+Duration: 60.0 minutes
+
+Date: 2025-04-14
+Entry: 9:30AM CT @ 5438.92
+Exit: 11:30AM CT @ 5414.78
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -24.14 points ($-120.70)
+Duration: 57.0 minutes
+
+Date: 2025-04-14
+Entry: 10:30AM CT @ 5403.54
+Exit: 12:30PM CT @ 5391.20
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.34 points ($-61.70)
+Duration: 12.0 minutes
+
+Date: 2025-04-14
+Entry: 11:30AM CT @ 5376.82
+Exit: 1:30PM CT @ 5411.68
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 34.86 points ($174.30)
+Duration: 91.0 minutes
+
+Date: 2025-04-14
+Entry: 1:30PM CT @ 5421.63
+Exit: 2:30PM CT @ 5431.06
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 9.43 points ($47.15)
+Duration: 60.0 minutes
+
+Date: 2025-04-14
+Entry: 2:30PM CT @ 5431.89
+Exit: 3:00PM CT @ 5410.97
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 20.92 points ($104.60)
+Duration: 25.0 minutes
+
+Date: 2025-04-15
+Entry: 8:31AM CT @ 5414.59
+Exit: 9:30AM CT @ 5433.51
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -18.92 points ($-94.60)
+Duration: 11.0 minutes
+
+Date: 2025-04-15
+Entry: 9:00AM CT @ 5433.57
+Exit: 10:00AM CT @ 5429.84
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -3.73 points ($-18.65)
+Duration: 60.0 minutes
+
+Date: 2025-04-15
+Entry: 9:30AM CT @ 5412.59
+Exit: 11:30AM CT @ 5431.09
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 18.50 points ($92.50)
+Duration: 120.0 minutes
+
+Date: 2025-04-15
+Entry: 10:30AM CT @ 5420.10
+Exit: 12:30PM CT @ 5403.19
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -16.91 points ($-84.55)
+Duration: 120.0 minutes
+
+Date: 2025-04-15
+Entry: 11:30AM CT @ 5428.09
+Exit: 1:30PM CT @ 5412.41
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 15.68 points ($78.40)
+Duration: 25.0 minutes
+
+Date: 2025-04-15
+Entry: 1:30PM CT @ 5392.49
+Exit: 2:30PM CT @ 5404.92
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 12.43 points ($62.15)
+Duration: 15.0 minutes
+
+Date: 2025-04-15
+Entry: 2:30PM CT @ 5401.36
+Exit: 3:00PM CT @ 5396.61
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 4.75 points ($23.75)
+Duration: 30.0 minutes
+
+Date: 2025-04-16
+Entry: 8:31AM CT @ 5342.09
+Exit: 9:30AM CT @ 5350.72
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -8.63 points ($-43.15)
+Duration: 5.0 minutes
+
+Date: 2025-04-16
+Entry: 9:00AM CT @ 5316.23
+Exit: 10:00AM CT @ 5338.36
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 22.13 points ($110.65)
+Duration: 34.0 minutes
+
+Date: 2025-04-16
+Entry: 9:30AM CT @ 5335.44
+Exit: 11:30AM CT @ 5358.11
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -22.67 points ($-113.35)
+Duration: 54.0 minutes
+
+Date: 2025-04-16
+Entry: 10:30AM CT @ 5363.75
+Exit: 12:30PM CT @ 5337.31
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -26.44 points ($-132.20)
+Duration: 28.0 minutes
+
+Date: 2025-04-16
+Entry: 11:30AM CT @ 5332.25
+Exit: 1:30PM CT @ 5312.82
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -19.43 points ($-97.15)
+Duration: 61.0 minutes
+
+Date: 2025-04-16
+Entry: 1:30PM CT @ 5277.88
+Exit: 2:30PM CT @ 5264.93
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.95 points ($-64.75)
+Duration: 7.0 minutes
+
+Date: 2025-04-16
+Entry: 2:30PM CT @ 5223.64
+Exit: 3:00PM CT @ 5239.29
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.65 points ($78.25)
+Duration: 10.0 minutes
+
+Date: 2025-04-17
+Entry: 8:31AM CT @ 5296.54
+Exit: 9:30AM CT @ 5264.10
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 32.44 points ($162.20)
+Duration: 59.0 minutes
+
+Date: 2025-04-17
+Entry: 9:00AM CT @ 5302.80
+Exit: 10:00AM CT @ 5276.42
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -26.38 points ($-131.90)
+Duration: 27.0 minutes
+
+Date: 2025-04-17
+Entry: 9:30AM CT @ 5268.94
+Exit: 11:30AM CT @ 5311.67
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -42.73 points ($-213.65)
+Duration: 118.0 minutes
+
+Date: 2025-04-17
+Entry: 10:30AM CT @ 5283.85
+Exit: 12:30PM CT @ 5298.09
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.24 points ($71.20)
+Duration: 7.0 minutes
+
+Date: 2025-04-17
+Entry: 11:30AM CT @ 5311.90
+Exit: 1:30PM CT @ 5319.59
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 7.69 points ($38.45)
+Duration: 120.0 minutes
+
+Date: 2025-04-17
+Entry: 1:30PM CT @ 5317.27
+Exit: 2:30PM CT @ 5304.61
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.66 points ($-63.30)
+Duration: 29.0 minutes
+
+Date: 2025-04-17
+Entry: 2:30PM CT @ 5289.76
+Exit: 3:00PM CT @ 5282.64
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -7.12 points ($-35.60)
+Duration: 30.0 minutes
+
+Date: 2025-04-21
+Entry: 8:31AM CT @ 5230.44
+Exit: 9:30AM CT @ 5192.40
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 38.04 points ($190.20)
+Duration: 28.0 minutes
+
+Date: 2025-04-21
+Entry: 9:00AM CT @ 5191.47
+Exit: 10:00AM CT @ 5169.81
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -21.66 points ($-108.30)
+Duration: 18.0 minutes
+
+Date: 2025-04-21
+Entry: 9:30AM CT @ 5171.96
+Exit: 11:30AM CT @ 5157.17
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -14.79 points ($-73.95)
+Duration: 37.0 minutes
+
+Date: 2025-04-21
+Entry: 10:30AM CT @ 5147.44
+Exit: 12:30PM CT @ 5123.14
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 24.30 points ($121.50)
+Duration: 92.0 minutes
+
+Date: 2025-04-21
+Entry: 11:30AM CT @ 5132.44
+Exit: 1:30PM CT @ 5117.12
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 15.32 points ($76.60)
+Duration: 38.0 minutes
+
+Date: 2025-04-21
+Entry: 1:30PM CT @ 5115.04
+Exit: 2:30PM CT @ 5120.53
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.49 points ($27.45)
+Duration: 60.0 minutes
+
+Date: 2025-04-21
+Entry: 2:30PM CT @ 5119.65
+Exit: 3:00PM CT @ 5136.55
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 16.90 points ($84.50)
+Duration: 10.0 minutes
+
+Date: 2025-04-22
+Entry: 8:31AM CT @ 5209.20
+Exit: 9:30AM CT @ 5237.05
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 27.85 points ($139.25)
+Duration: 15.0 minutes
+
+Date: 2025-04-22
+Entry: 9:00AM CT @ 5236.06
+Exit: 10:00AM CT @ 5251.53
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.47 points ($77.35)
+Duration: 39.0 minutes
+
+Date: 2025-04-22
+Entry: 9:30AM CT @ 5246.56
+Exit: 11:30AM CT @ 5274.41
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 27.85 points ($139.25)
+Duration: 89.0 minutes
+
+Date: 2025-04-22
+Entry: 10:30AM CT @ 5266.35
+Exit: 12:30PM CT @ 5268.93
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -2.58 points ($-12.90)
+Duration: 29.0 minutes
+
+Date: 2025-04-22
+Entry: 11:30AM CT @ 5304.71
+Exit: 1:30PM CT @ 5254.68
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -50.03 points ($-250.15)
+Duration: 51.0 minutes
+
+Date: 2025-04-22
+Entry: 1:30PM CT @ 5270.05
+Exit: 2:30PM CT @ 5284.49
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -14.44 points ($-72.20)
+Duration: 23.0 minutes
+
+Date: 2025-04-22
+Entry: 2:30PM CT @ 5263.14
+Exit: 3:00PM CT @ 5273.46
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -10.32 points ($-51.60)
+Duration: 13.0 minutes
+
+Date: 2025-04-23
+Entry: 8:31AM CT @ 5419.75
+Exit: 9:30AM CT @ 5449.89
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -30.14 points ($-150.70)
+Duration: 6.0 minutes
+
+Date: 2025-04-23
+Entry: 9:00AM CT @ 5452.46
+Exit: 10:00AM CT @ 5436.60
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.86 points ($-79.30)
+Duration: 16.0 minutes
+
+Date: 2025-04-23
+Entry: 9:30AM CT @ 5455.42
+Exit: 11:30AM CT @ 5428.98
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 26.44 points ($132.20)
+Duration: 49.0 minutes
+
+Date: 2025-04-23
+Entry: 10:30AM CT @ 5401.78
+Exit: 12:30PM CT @ 5406.01
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -4.23 points ($-21.15)
+Duration: 9.0 minutes
+
+Date: 2025-04-23
+Entry: 11:30AM CT @ 5379.18
+Exit: 1:30PM CT @ 5397.16
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 17.98 points ($89.90)
+Duration: 27.0 minutes
+
+Date: 2025-04-23
+Entry: 1:30PM CT @ 5382.76
+Exit: 2:30PM CT @ 5364.25
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -18.51 points ($-92.55)
+Duration: 52.0 minutes
+
+Date: 2025-04-23
+Entry: 2:30PM CT @ 5363.56
+Exit: 3:00PM CT @ 5371.49
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -7.93 points ($-39.65)
+Duration: 1.0 minutes
+
+Date: 2025-04-24
+Entry: 8:31AM CT @ 5378.16
+Exit: 9:30AM CT @ 5400.74
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -22.58 points ($-112.90)
+Duration: 18.0 minutes
+
+Date: 2025-04-24
+Entry: 9:00AM CT @ 5413.13
+Exit: 10:00AM CT @ 5445.39
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -32.26 points ($-161.30)
+Duration: 36.0 minutes
+
+Date: 2025-04-24
+Entry: 9:30AM CT @ 5439.91
+Exit: 11:30AM CT @ 5459.80
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 19.89 points ($99.45)
+Duration: 110.0 minutes
+
+Date: 2025-04-24
+Entry: 10:30AM CT @ 5442.85
+Exit: 12:30PM CT @ 5439.62
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -3.23 points ($-16.15)
+Duration: 0.0 minutes
+
+Date: 2025-04-24
+Entry: 11:30AM CT @ 5461.12
+Exit: 1:30PM CT @ 5477.01
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 15.89 points ($79.45)
+Duration: 120.0 minutes
+
+Date: 2025-04-24
+Entry: 1:30PM CT @ 5472.26
+Exit: 2:30PM CT @ 5467.96
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -4.30 points ($-21.50)
+Duration: 40.0 minutes
+
+Date: 2025-04-24
+Entry: 2:30PM CT @ 5466.69
+Exit: 3:00PM CT @ 5483.36
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -16.67 points ($-83.35)
+Duration: 18.0 minutes
+
+Date: 2025-04-25
+Entry: 8:31AM CT @ 5487.77
+Exit: 9:30AM CT @ 5472.41
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.36 points ($-76.80)
+Duration: 20.0 minutes
+
+Date: 2025-04-25
+Entry: 9:00AM CT @ 5466.75
+Exit: 10:00AM CT @ 5483.20
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 16.45 points ($82.25)
+Duration: 7.0 minutes
+
+Date: 2025-04-25
+Entry: 9:30AM CT @ 5463.84
+Exit: 11:30AM CT @ 5493.46
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 29.62 points ($148.10)
+Duration: 102.0 minutes
+
+Date: 2025-04-25
+Entry: 10:30AM CT @ 5482.33
+Exit: 12:30PM CT @ 5508.66
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 26.33 points ($131.65)
+Duration: 74.0 minutes
+
+Date: 2025-04-25
+Entry: 11:30AM CT @ 5501.75
+Exit: 1:30PM CT @ 5523.69
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.94 points ($109.70)
+Duration: 55.0 minutes
+
+Date: 2025-04-25
+Entry: 1:30PM CT @ 5515.37
+Exit: 2:30PM CT @ 5510.59
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -4.78 points ($-23.90)
+Duration: 60.0 minutes
+
+Date: 2025-04-25
+Entry: 2:30PM CT @ 5514.41
+Exit: 3:00PM CT @ 5521.54
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -7.13 points ($-35.65)
+Duration: 23.0 minutes
+
+Date: 2025-04-28
+Entry: 8:31AM CT @ 5537.77
+Exit: 9:30AM CT @ 5551.58
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.81 points ($69.05)
+Duration: 15.0 minutes
+
+Date: 2025-04-28
+Entry: 9:00AM CT @ 5521.47
+Exit: 10:00AM CT @ 5523.86
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -2.39 points ($-11.95)
+Duration: 60.0 minutes
+
+Date: 2025-04-28
+Entry: 9:30AM CT @ 5527.83
+Exit: 11:30AM CT @ 5500.20
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 27.63 points ($138.15)
+Duration: 52.0 minutes
+
+Date: 2025-04-28
+Entry: 10:30AM CT @ 5489.22
+Exit: 12:30PM CT @ 5470.22
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -19.00 points ($-95.00)
+Duration: 120.0 minutes
+
+Date: 2025-04-28
+Entry: 11:30AM CT @ 5477.37
+Exit: 1:30PM CT @ 5498.37
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.00 points ($105.00)
+Duration: 114.0 minutes
+
+Date: 2025-04-28
+Entry: 1:30PM CT @ 5502.80
+Exit: 2:30PM CT @ 5514.96
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 12.16 points ($60.80)
+Duration: 38.0 minutes
+
+Date: 2025-04-28
+Entry: 2:30PM CT @ 5523.39
+Exit: 3:00PM CT @ 5534.44
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.05 points ($55.25)
+Duration: 20.0 minutes
+
+Date: 2025-04-29
+Entry: 8:31AM CT @ 5508.80
+Exit: 9:30AM CT @ 5537.00
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 28.20 points ($141.00)
+Duration: 34.0 minutes
+
+Date: 2025-04-29
+Entry: 9:00AM CT @ 5524.06
+Exit: 10:00AM CT @ 5549.22
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -25.16 points ($-125.80)
+Duration: 60.0 minutes
+
+Date: 2025-04-29
+Entry: 9:30AM CT @ 5516.46
+Exit: 11:30AM CT @ 5549.08
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -32.62 points ($-163.10)
+Duration: 30.0 minutes
+
+Date: 2025-04-29
+Entry: 10:30AM CT @ 5540.26
+Exit: 12:30PM CT @ 5544.97
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -4.71 points ($-23.55)
+Duration: 120.0 minutes
+
+Date: 2025-04-29
+Entry: 11:30AM CT @ 5546.56
+Exit: 1:30PM CT @ 5567.02
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -20.46 points ($-102.30)
+Duration: 79.0 minutes
+
+Date: 2025-04-29
+Entry: 1:30PM CT @ 5566.21
+Exit: 2:30PM CT @ 5564.71
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -1.50 points ($-7.50)
+Duration: 60.0 minutes
+
+Date: 2025-04-29
+Entry: 2:30PM CT @ 5563.47
+Exit: 3:00PM CT @ 5560.74
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 2.73 points ($13.65)
+Duration: 30.0 minutes
+
+Date: 2025-04-30
+Entry: 8:31AM CT @ 5477.98
+Exit: 9:30AM CT @ 5465.75
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -12.23 points ($-61.15)
+Duration: 7.0 minutes
+
+Date: 2025-04-30
+Entry: 9:00AM CT @ 5435.66
+Exit: 10:00AM CT @ 5473.47
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -37.81 points ($-189.05)
+Duration: 24.0 minutes
+
+Date: 2025-04-30
+Entry: 9:30AM CT @ 5481.00
+Exit: 11:30AM CT @ 5503.80
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 22.80 points ($114.00)
+Duration: 42.0 minutes
+
+Date: 2025-04-30
+Entry: 10:30AM CT @ 5507.82
+Exit: 12:30PM CT @ 5515.56
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 7.74 points ($38.70)
+Duration: 120.0 minutes
+
+Date: 2025-04-30
+Entry: 11:30AM CT @ 5498.74
+Exit: 1:30PM CT @ 5520.43
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.69 points ($108.45)
+Duration: 64.0 minutes
+
+Date: 2025-04-30
+Entry: 1:30PM CT @ 5521.75
+Exit: 2:30PM CT @ 5511.18
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.57 points ($-52.85)
+Duration: 11.0 minutes
+
+Date: 2025-04-30
+Entry: 12:30PM CT @ 5517.18
+Exit: 3:00PM CT @ 5539.98
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 22.80 points ($114.00)
+Duration: 138.0 minutes
+
+Date: 2025-05-01
+Entry: 8:31AM CT @ 5622.82
+Exit: 9:30AM CT @ 5635.83
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -13.01 points ($-65.05)
+Duration: 59.0 minutes
+
+Date: 2025-05-01
+Entry: 9:00AM CT @ 5606.76
+Exit: 10:00AM CT @ 5612.89
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -6.13 points ($-30.65)
+Duration: 0.0 minutes
+
+Date: 2025-05-01
+Entry: 9:30AM CT @ 5639.04
+Exit: 11:30AM CT @ 5620.66
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 18.38 points ($91.90)
+Duration: 120.0 minutes
+
+Date: 2025-05-01
+Entry: 10:30AM CT @ 5650.54
+Exit: 12:30PM CT @ 5617.13
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 33.41 points ($167.05)
+Duration: 46.0 minutes
+
+Date: 2025-05-01
+Entry: 11:30AM CT @ 5620.93
+Exit: 1:30PM CT @ 5636.10
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 15.17 points ($75.85)
+Duration: 120.0 minutes
+
+Date: 2025-05-01
+Entry: 1:30PM CT @ 5636.15
+Exit: 2:30PM CT @ 5636.73
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 0.58 points ($2.90)
+Duration: 60.0 minutes
+
+Date: 2025-05-01
+Entry: 2:30PM CT @ 5637.69
+Exit: 3:00PM CT @ 5618.76
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 18.93 points ($94.65)
+Duration: 25.0 minutes
+
+Date: 2025-05-02
+Entry: 8:31AM CT @ 5662.34
+Exit: 9:30AM CT @ 5647.21
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.13 points ($-75.65)
+Duration: 20.0 minutes
+
+Date: 2025-05-02
+Entry: 9:00AM CT @ 5653.79
+Exit: 10:00AM CT @ 5677.02
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -23.23 points ($-116.15)
+Duration: 60.0 minutes
+
+Date: 2025-05-02
+Entry: 9:30AM CT @ 5680.30
+Exit: 11:30AM CT @ 5664.61
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -15.69 points ($-78.45)
+Duration: 57.0 minutes
+
+Date: 2025-05-02
+Entry: 10:30AM CT @ 5663.83
+Exit: 12:30PM CT @ 5677.28
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 13.45 points ($67.25)
+Duration: 16.0 minutes
+
+Date: 2025-05-02
+Entry: 11:30AM CT @ 5689.80
+Exit: 1:30PM CT @ 5695.35
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: -5.55 points ($-27.75)
+Duration: 120.0 minutes
+
+Date: 2025-05-02
+Entry: 1:30PM CT @ 5694.23
+Exit: 2:30PM CT @ 5683.58
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -10.65 points ($-53.25)
+Duration: 20.0 minutes
+
+Date: 2025-05-02
+Entry: 2:30PM CT @ 5693.79
+Exit: 3:00PM CT @ 5689.87
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -3.92 points ($-19.60)
+Duration: 6.0 minutes
+
+Date: 2025-05-05
+Entry: 8:31AM CT @ 5645.66
+Exit: 9:30AM CT @ 5652.64
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 6.98 points ($34.90)
+Duration: 59.0 minutes
+
+Date: 2025-05-05
+Entry: 9:00AM CT @ 5646.95
+Exit: 10:00AM CT @ 5665.15
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -18.20 points ($-91.00)
+Duration: 54.0 minutes
+
+Date: 2025-05-05
+Entry: 9:30AM CT @ 5654.06
+Exit: 11:30AM CT @ 5665.43
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.37 points ($56.85)
+Duration: 24.0 minutes
+
+Date: 2025-05-05
+Entry: 10:30AM CT @ 5665.59
+Exit: 12:30PM CT @ 5669.73
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 4.14 points ($20.70)
+Duration: 120.0 minutes
+
+Date: 2025-05-05
+Entry: 11:30AM CT @ 5674.33
+Exit: 1:30PM CT @ 5680.36
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 6.03 points ($30.15)
+Duration: 120.0 minutes
+
+Date: 2025-05-05
+Entry: 1:30PM CT @ 5679.02
+Exit: 2:30PM CT @ 5665.37
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.65 points ($-68.25)
+Duration: 54.0 minutes
+
+Date: 2025-05-05
+Entry: 12:30PM CT @ 5669.05
+Exit: 3:00PM CT @ 5650.59
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 18.46 points ($92.30)
+Duration: 150.0 minutes
+
+Date: 2025-05-06
+Entry: 8:31AM CT @ 5597.85
+Exit: 9:30AM CT @ 5613.11
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.26 points ($76.30)
+Duration: 8.0 minutes
+
+Date: 2025-05-06
+Entry: 9:00AM CT @ 5591.85
+Exit: 10:00AM CT @ 5612.19
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -20.34 points ($-101.70)
+Duration: 17.0 minutes
+
+Date: 2025-05-06
+Entry: 9:30AM CT @ 5622.96
+Exit: 11:30AM CT @ 5638.22
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.26 points ($76.30)
+Duration: 103.0 minutes
+
+Date: 2025-05-06
+Entry: 10:30AM CT @ 5633.74
+Exit: 12:30PM CT @ 5620.74
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -13.00 points ($-65.00)
+Duration: 23.0 minutes
+
+Date: 2025-05-06
+Entry: 11:30AM CT @ 5623.00
+Exit: 1:30PM CT @ 5602.66
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -20.34 points ($-101.70)
+Duration: 76.0 minutes
+
+Date: 2025-05-06
+Entry: 1:30PM CT @ 5621.66
+Exit: 2:30PM CT @ 5627.54
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: 5.88 points ($29.40)
+Duration: 60.0 minutes
+
+Date: 2025-05-06
+Entry: 2:30PM CT @ 5624.75
+Exit: 3:00PM CT @ 5613.45
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 11.30 points ($56.50)
+Duration: 29.0 minutes
+
+Date: 2025-05-07
+Entry: 8:31AM CT @ 5615.08
+Exit: 9:30AM CT @ 5630.22
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 15.14 points ($75.70)
+Duration: 26.0 minutes
+
+Date: 2025-05-07
+Entry: 9:00AM CT @ 5631.41
+Exit: 10:00AM CT @ 5612.91
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 18.50 points ($92.50)
+Duration: 54.0 minutes
+
+Date: 2025-05-07
+Entry: 9:30AM CT @ 5635.55
+Exit: 11:30AM CT @ 5612.56
+Direction: bullish
+Exit Type: SL
+Profit/Loss: -22.99 points ($-114.95)
+Duration: 24.0 minutes
+
+Date: 2025-05-07
+Entry: 10:30AM CT @ 5608.38
+Exit: 12:30PM CT @ 5622.96
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 14.58 points ($72.90)
+Duration: 82.0 minutes
+
+Date: 2025-05-07
+Entry: 11:30AM CT @ 5609.02
+Exit: 1:30PM CT @ 5625.28
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 16.26 points ($81.30)
+Duration: 23.0 minutes
+
+Date: 2025-05-07
+Entry: 1:30PM CT @ 5596.98
+Exit: 2:30PM CT @ 5608.75
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.77 points ($58.85)
+Duration: 3.0 minutes
+
+Date: 2025-05-07
+Entry: 2:30PM CT @ 5596.20
+Exit: 3:00PM CT @ 5607.41
+Direction: bearish
+Exit Type: SL
+Profit/Loss: -11.21 points ($-56.05)
+Duration: 7.0 minutes
+
+Date: 2025-05-08
+Entry: 8:31AM CT @ 5671.63
+Exit: 9:30AM CT @ 5649.67
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 21.96 points ($109.80)
+Duration: 40.0 minutes
+
+Date: 2025-05-08
+Entry: 9:00AM CT @ 5659.53
+Exit: 10:00AM CT @ 5645.36
+Direction: bearish
+Exit Type: TIME
+Profit/Loss: 14.17 points ($70.85)
+Duration: 60.0 minutes
+
+Date: 2025-05-08
+Entry: 9:30AM CT @ 5661.82
+Exit: 11:30AM CT @ 5646.62
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 15.20 points ($76.00)
+Duration: 24.0 minutes
+
+Date: 2025-05-08
+Entry: 10:30AM CT @ 5678.90
+Exit: 12:30PM CT @ 5700.30
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 21.40 points ($107.00)
+Duration: 11.0 minutes
+
+Date: 2025-05-08
+Entry: 11:30AM CT @ 5704.84
+Exit: 1:30PM CT @ 5699.60
+Direction: bullish
+Exit Type: TIME
+Profit/Loss: -5.24 points ($-26.20)
+Duration: 120.0 minutes
+
+Date: 2025-05-08
+Entry: 1:30PM CT @ 5697.27
+Exit: 2:30PM CT @ 5708.53
+Direction: bullish
+Exit Type: TP
+Profit/Loss: 11.26 points ($56.30)
+Duration: 51.0 minutes
+
+Date: 2025-05-08
+Entry: 2:30PM CT @ 5707.23
+Exit: 3:00PM CT @ 5692.03
+Direction: bearish
+Exit Type: TP
+Profit/Loss: 15.20 points ($76.00)
+Duration: 15.0 minutes
