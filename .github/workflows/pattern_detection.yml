@@ -36,7 +36,7 @@ jobs:
         run: python src/patterns/collector.py
 
       - name: Run pattern detector
-        run: python src/patterns/run_detector.py
+        run: python src/patterns/new_detector.py
 
       - name: Send pattern summary via email
         if: always()
