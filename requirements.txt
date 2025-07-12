@@ -7,3 +7,4 @@ requests==2.31.0
 numpy==1.24.4
 websocket-client==1.6.1 
 tqdm
+pandas_market_calendars
