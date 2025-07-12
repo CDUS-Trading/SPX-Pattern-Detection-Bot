@@ -1,4 +1,0 @@
-date,signal_num,entry_time,exit_time,direction,TP (unadjusted),SL (unadjusted),success_rate,pnl,exit_type,filter_level
-2025-06-18,1,8:31AM CT,9:30AM CT,Buy,28.72,14.36,75.0,,,Strict
-2025-06-18,2,9:30AM CT,10:30AM CT,Buy,25.13,9.57,71.43,,,Strict
-2025-06-18,3,12:30PM CT,3:00PM CT,Sell,23.93,8.38,72.22,,,Strict
