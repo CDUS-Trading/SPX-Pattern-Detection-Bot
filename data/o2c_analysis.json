@@ -1,0 +1,193 @@
+{
+  "total_patterns": 26,
+  "analyzed_patterns": 21,
+  "correct_directions": 6,
+  "direction_accuracy": 28.57142857142857,
+  "by_filter_level": {
+    "Strict": {
+      "correct": 1,
+      "total": 4,
+      "accuracy": 25.0
+    },
+    "Minimum": {
+      "correct": 2,
+      "total": 11,
+      "accuracy": 18.181818181818183
+    },
+    "Moderate": {
+      "correct": 3,
+      "total": 6,
+      "accuracy": 50.0
+    }
+  },
+  "details": [
+    {
+      "date": "2025-05-01",
+      "filter_level": "Strict",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -2.130000000000109,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-02",
+      "filter_level": "Strict",
+      "predicted": "bullish",
+      "actual": "bullish",
+      "points_moved": 15.909999999999854,
+      "is_correct": true
+    },
+    {
+      "date": "2025-05-05",
+      "filter_level": "Minimum",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -9.929999999999382,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-06",
+      "filter_level": "Minimum",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -8.239999999999782,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-07",
+      "filter_level": "Moderate",
+      "predicted": "bullish",
+      "actual": "bullish",
+      "points_moved": 1.2199999999993452,
+      "is_correct": true
+    },
+    {
+      "date": "2025-05-08",
+      "filter_level": "Moderate",
+      "predicted": "bearish",
+      "actual": "bullish",
+      "points_moved": 8.349999999999454,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-09",
+      "filter_level": "Moderate",
+      "predicted": "bearish",
+      "actual": "bullish",
+      "points_moved": 7.460000000000036,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-15",
+      "filter_level": "Minimum",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -1.0599999999994907,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-16",
+      "filter_level": "Minimum",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -5.380000000000109,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-19",
+      "filter_level": "Moderate",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -2.449999999999818,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-20",
+      "filter_level": "Strict",
+      "predicted": "bearish",
+      "actual": "bullish",
+      "points_moved": 3.360000000000582,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-21",
+      "filter_level": "Minimum",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -6.680000000000291,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-22",
+      "filter_level": "Strict",
+      "predicted": "bullish",
+      "actual": "bearish",
+      "points_moved": -2.8200000000006185,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-23",
+      "filter_level": "Minimum",
+      "predicted": "bearish",
+      "actual": "bearish",
+      "points_moved": -10.0,
+      "is_correct": true
+    },
+    {
+      "date": "2025-05-27",
+      "filter_level": "Minimum",
+      "predicted": "bullish",
+      "actual": "bullish",
+      "points_moved": 18.69000000000051,
+      "is_correct": true
+    },
+    {
+      "date": "2025-05-28",
+      "filter_level": "Minimum",
+      "predicted": "bearish",
+      "actual": "bullish",
+      "points_moved": 4.579999999999927,
+      "is_correct": false
+    },
+    {
+      "date": "2025-05-29",
+      "filter_level": "Moderate",
+      "predicted": "bearish",
+      "actual": "bearish",
+      "points_moved": -3.2200000000002547,
+      "is_correct": true
+    },
+    {
+      "date": "2025-06-02",
+      "filter_level": "Moderate",
+      "predicted": "bearish",
+      "actual": "bearish",
+      "points_moved": -0.8000000000001819,
+      "is_correct": true
+    },
+    {
+      "date": "2025-06-03",
+      "filter_level": "Minimum",
+      "predicted": "bearish",
+      "actual": "bullish",
+      "points_moved": 1.9199999999991633,
+      "is_correct": false
+    },
+    {
+      "date": "2025-06-04",
+      "filter_level": "Minimum",
+      "predicted": "bearish",
+      "actual": "bullish",
+      "points_moved": 2.4000000000005457,
+      "is_correct": false
+    },
+    {
+      "date": "2025-06-06",
+      "filter_level": "Minimum",
+      "predicted": "bearish",
+      "actual": "bullish",
+      "points_moved": 7.3799999999992,
+      "is_correct": false
+    }
+  ]
+}

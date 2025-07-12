@@ -1,0 +1,50 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Trading Patterns and Signal Format
+
+## Pattern File Format
+Pattern files should follow this structure:
+```
+===== Action Plan =====
+Entry: HH:MM AM/PM CT
+Exit: HH:MM AM/PM CT
+Direction: Buy 📈 or Sell 📉
+TP: XX.XX points
+SL: XX.XX points
+Success Rate: XX.XX%
+------------------------------
+```
+
+## Pattern Types
+The bot supports different pattern types defined in [pattern_database.json](mdc:pattern_database.json):
+- Moderate patterns (default)
+- Aggressive patterns
+- Conservative patterns
+
+## Signal Processing
+1. Signals are processed sequentially based on entry time
+2. Each signal must include:
+   - Entry time (Central Time)
+   - Exit time (Central Time)
+   - Trade direction
+   - Take profit level
+   - Stop loss level
+   - Historical success rate
+
+## Position Management Rules
+1. Only one position can be active at a time
+2. New positions are only opened after previous position is closed
+3. Positions are closed when:
+   - Take profit is hit
+   - Stop loss is hit
+   - Exit time is reached
+   - Manual intervention is required
+
+## Risk Management
+- Each trade has predefined take profit and stop loss levels
+- Success rate is tracked for each pattern type
+- Trades are executed using paper trading first
+- Position size is controlled by TRADE_QTY parameter
